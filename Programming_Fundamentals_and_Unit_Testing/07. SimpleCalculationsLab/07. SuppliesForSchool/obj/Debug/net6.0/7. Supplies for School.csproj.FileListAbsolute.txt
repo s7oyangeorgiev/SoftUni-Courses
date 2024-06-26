@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\7. Supplies for School\bin\Debug\net6.0\7. Supplies for School.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\7. Supplies for School\bin\Debug\net6.0\7. Supplies for School.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\7. Supplies for School\bin\Debug\net6.0\7. Supplies for School.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\7. Supplies for School\bin\Debug\net6.0\7. Supplies for School.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\7. Supplies for School\bin\Debug\net6.0\7. Supplies for School.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\7. Supplies for School\obj\Debug\net6.0\7. Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\7. Supplies for School\obj\Debug\net6.0\7. Supplies for School.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\7. Supplies for School\obj\Debug\net6.0\7. Supplies for School.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\7. Supplies for School\obj\Debug\net6.0\7. Supplies for School.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\7. Supplies for School\obj\Debug\net6.0\7. Supplies for School.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\7. Supplies for School\obj\Debug\net6.0\refint\7. Supplies for School.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\7. Supplies for School\obj\Debug\net6.0\7. Supplies for School.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\7. Supplies for School\obj\Debug\net6.0\7. Supplies for School.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\7. Supplies for School\obj\Debug\net6.0\ref\7. Supplies for School.dll
