@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.exe
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.deps.json
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.dll
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.pdb
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.dll
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\03.SumNumbers\obj\Debug\net6.0\refint\03.SumNumbers.dll
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.pdb
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\03.SumNumbers\obj\Debug\net6.0\ref\03.SumNumbers.dll
