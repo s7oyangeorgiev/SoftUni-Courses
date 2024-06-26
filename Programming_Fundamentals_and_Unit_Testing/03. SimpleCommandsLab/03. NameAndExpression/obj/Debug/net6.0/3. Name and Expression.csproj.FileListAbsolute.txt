@@ -1,0 +1,28 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\3. Name and Expression\bin\Debug\net6.0\3. Name and Expression.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\3. Name and Expression\bin\Debug\net6.0\3. Name and Expression.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\3. Name and Expression\bin\Debug\net6.0\3. Name and Expression.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\3. Name and Expression\bin\Debug\net6.0\3. Name and Expression.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\3. Name and Expression\bin\Debug\net6.0\3. Name and Expression.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\3. Name and Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\3. Name and Expression.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\3. Name and Expression.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\3. Name and Expression.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\3. Name and Expression.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\refint\3. Name and Expression.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\3. Name and Expression.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\3. Name and Expression.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\ref\3. Name and Expression.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\3. Name and Expression\bin\Debug\net6.0\3. Name and Expression.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\3. Name and Expression\bin\Debug\net6.0\3. Name and Expression.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\3. Name and Expression\bin\Debug\net6.0\3. Name and Expression.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\3. Name and Expression\bin\Debug\net6.0\3. Name and Expression.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\3. Name and Expression\bin\Debug\net6.0\3. Name and Expression.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\3. Name and Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\3. Name and Expression.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\3. Name and Expression.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\3. Name and Expression.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\3. Name and Expression.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\refint\3. Name and Expression.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\3. Name and Expression.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\3. Name and Expression.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\3. Name and Expression\obj\Debug\net6.0\ref\3. Name and Expression.dll
