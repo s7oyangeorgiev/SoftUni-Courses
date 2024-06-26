@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\net6.0\04.Sequence2k+1.exe
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\net6.0\04.Sequence2k+1.deps.json
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\net6.0\04.Sequence2k+1.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\net6.0\04.Sequence2k+1.dll
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\net6.0\04.Sequence2k+1.pdb
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.dll
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net6.0\refint\04.Sequence2k+1.dll
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.pdb
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\net6.0\ref\04.Sequence2k+1.dll
