@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\03\bin\Debug\net6.0\03. Bonus Score.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\03\bin\Debug\net6.0\03. Bonus Score.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\03\bin\Debug\net6.0\03. Bonus Score.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\03\bin\Debug\net6.0\03. Bonus Score.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\03\bin\Debug\net6.0\03. Bonus Score.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\03\obj\Debug\net6.0\03. Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\03\obj\Debug\net6.0\03. Bonus Score.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\03\obj\Debug\net6.0\03. Bonus Score.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\03\obj\Debug\net6.0\03. Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\03\obj\Debug\net6.0\03. Bonus Score.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\03\obj\Debug\net6.0\refint\03. Bonus Score.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\03\obj\Debug\net6.0\03. Bonus Score.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\03\obj\Debug\net6.0\03. Bonus Score.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\03\obj\Debug\net6.0\ref\03. Bonus Score.dll
