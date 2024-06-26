@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\6. Mandatory Li\bin\Debug\net6.0\6. Mandatory Literature.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\6. Mandatory Li\bin\Debug\net6.0\6. Mandatory Literature.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\6. Mandatory Li\bin\Debug\net6.0\6. Mandatory Literature.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\6. Mandatory Li\bin\Debug\net6.0\6. Mandatory Literature.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\6. Mandatory Li\bin\Debug\net6.0\6. Mandatory Literature.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\6. Mandatory Li\obj\Debug\net6.0\6. Mandatory Literature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\6. Mandatory Li\obj\Debug\net6.0\6. Mandatory Literature.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\6. Mandatory Li\obj\Debug\net6.0\6. Mandatory Literature.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\6. Mandatory Li\obj\Debug\net6.0\6. Mandatory Literature.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\6. Mandatory Li\obj\Debug\net6.0\6. Mandatory Literature.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\6. Mandatory Li\obj\Debug\net6.0\refint\6. Mandatory Literature.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\6. Mandatory Li\obj\Debug\net6.0\6. Mandatory Literature.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\6. Mandatory Li\obj\Debug\net6.0\6. Mandatory Literature.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\6. Mandatory Li\obj\Debug\net6.0\ref\6. Mandatory Literature.dll
