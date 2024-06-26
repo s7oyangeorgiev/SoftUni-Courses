@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\07.Shopping\bin\Debug\net6.0\07.Shopping.exe
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\07.Shopping\bin\Debug\net6.0\07.Shopping.deps.json
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\07.Shopping\bin\Debug\net6.0\07.Shopping.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\07.Shopping\bin\Debug\net6.0\07.Shopping.dll
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\07.Shopping\bin\Debug\net6.0\07.Shopping.pdb
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\07.Shopping\obj\Debug\net6.0\07.Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\07.Shopping\obj\Debug\net6.0\07.Shopping.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\07.Shopping\obj\Debug\net6.0\07.Shopping.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\07.Shopping\obj\Debug\net6.0\07.Shopping.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\07.Shopping\obj\Debug\net6.0\07.Shopping.dll
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\07.Shopping\obj\Debug\net6.0\refint\07.Shopping.dll
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\07.Shopping\obj\Debug\net6.0\07.Shopping.pdb
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\07.Shopping\obj\Debug\net6.0\07.Shopping.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\07.Shopping\obj\Debug\net6.0\ref\07.Shopping.dll
