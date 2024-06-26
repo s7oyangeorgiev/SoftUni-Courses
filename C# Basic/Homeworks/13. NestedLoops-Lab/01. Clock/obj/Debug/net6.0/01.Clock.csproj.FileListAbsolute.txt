@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\01.Clock\bin\Debug\net6.0\01.Clock.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\01.Clock\bin\Debug\net6.0\01.Clock.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\01.Clock\bin\Debug\net6.0\01.Clock.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\01.Clock\bin\Debug\net6.0\01.Clock.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\01.Clock\bin\Debug\net6.0\01.Clock.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\01.Clock\obj\Debug\net6.0\01.Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\01.Clock\obj\Debug\net6.0\01.Clock.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\01.Clock\obj\Debug\net6.0\01.Clock.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\01.Clock\obj\Debug\net6.0\01.Clock.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\01.Clock\obj\Debug\net6.0\01.Clock.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\01.Clock\obj\Debug\net6.0\refint\01.Clock.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\01.Clock\obj\Debug\net6.0\01.Clock.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\01.Clock\obj\Debug\net6.0\01.Clock.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\01.Clock\obj\Debug\net6.0\ref\01.Clock.dll
