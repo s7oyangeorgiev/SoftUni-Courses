@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\05. Happy\bin\Debug\net6.0\05. Happy Numbers.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\05. Happy\bin\Debug\net6.0\05. Happy Numbers.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\05. Happy\bin\Debug\net6.0\05. Happy Numbers.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\05. Happy\bin\Debug\net6.0\05. Happy Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\05. Happy\bin\Debug\net6.0\05. Happy Numbers.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\05. Happy\obj\Debug\net6.0\05. Happy Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\05. Happy\obj\Debug\net6.0\05. Happy Numbers.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\05. Happy\obj\Debug\net6.0\05. Happy Numbers.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\05. Happy\obj\Debug\net6.0\05. Happy Numbers.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\05. Happy\obj\Debug\net6.0\05. Happy Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\05. Happy\obj\Debug\net6.0\refint\05. Happy Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\05. Happy\obj\Debug\net6.0\05. Happy Numbers.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\05. Happy\obj\Debug\net6.0\05. Happy Numbers.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\05. Happy\obj\Debug\net6.0\ref\05. Happy Numbers.dll
