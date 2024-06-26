@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\04\bin\Debug\net6.0\04. Food or Drink.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\04\bin\Debug\net6.0\04. Food or Drink.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\04\bin\Debug\net6.0\04. Food or Drink.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\04\bin\Debug\net6.0\04. Food or Drink.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\04\bin\Debug\net6.0\04. Food or Drink.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\04\obj\Debug\net6.0\04. Food or Drink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\04\obj\Debug\net6.0\04. Food or Drink.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\04\obj\Debug\net6.0\04. Food or Drink.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\04\obj\Debug\net6.0\04. Food or Drink.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\04\obj\Debug\net6.0\04. Food or Drink.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\04\obj\Debug\net6.0\refint\04. Food or Drink.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\04\obj\Debug\net6.0\04. Food or Drink.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\04\obj\Debug\net6.0\04. Food or Drink.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\04\obj\Debug\net6.0\ref\04. Food or Drink.dll
