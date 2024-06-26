@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\09\bin\Debug\net6.0\09. Cinema.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\09\bin\Debug\net6.0\09. Cinema.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\09\bin\Debug\net6.0\09. Cinema.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\09\bin\Debug\net6.0\09. Cinema.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\09\bin\Debug\net6.0\09. Cinema.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\09\obj\Debug\net6.0\09. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\09\obj\Debug\net6.0\09. Cinema.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\09\obj\Debug\net6.0\09. Cinema.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\09\obj\Debug\net6.0\09. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\09\obj\Debug\net6.0\09. Cinema.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\09\obj\Debug\net6.0\refint\09. Cinema.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\09\obj\Debug\net6.0\09. Cinema.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\09\obj\Debug\net6.0\09. Cinema.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\09\obj\Debug\net6.0\ref\09. Cinema.dll
