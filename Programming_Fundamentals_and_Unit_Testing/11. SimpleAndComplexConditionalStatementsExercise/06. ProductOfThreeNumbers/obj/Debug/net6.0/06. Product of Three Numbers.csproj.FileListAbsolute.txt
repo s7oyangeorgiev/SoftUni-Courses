@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\06\bin\Debug\net6.0\06. Product of Three Numbers.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\06\bin\Debug\net6.0\06. Product of Three Numbers.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\06\bin\Debug\net6.0\06. Product of Three Numbers.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\06\bin\Debug\net6.0\06. Product of Three Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\06\bin\Debug\net6.0\06. Product of Three Numbers.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\06\obj\Debug\net6.0\06. Product of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\06\obj\Debug\net6.0\06. Product of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\06\obj\Debug\net6.0\06. Product of Three Numbers.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\06\obj\Debug\net6.0\06. Product of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\06\obj\Debug\net6.0\06. Product of Three Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\06\obj\Debug\net6.0\refint\06. Product of Three Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\06\obj\Debug\net6.0\06. Product of Three Numbers.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\06\obj\Debug\net6.0\06. Product of Three Numbers.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\06\obj\Debug\net6.0\ref\06. Product of Three Numbers.dll
