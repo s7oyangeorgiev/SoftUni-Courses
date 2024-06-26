@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net6.0\02.EqualSumsEvenOddPosition.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net6.0\02.EqualSumsEvenOddPosition.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net6.0\02.EqualSumsEvenOddPosition.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net6.0\02.EqualSumsEvenOddPosition.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net6.0\02.EqualSumsEvenOddPosition.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\02.EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\02.EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\02.EqualSumsEvenOddPosition.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\02.EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\02.EqualSumsEvenOddPosition.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\refint\02.EqualSumsEvenOddPosition.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\02.EqualSumsEvenOddPosition.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\02.EqualSumsEvenOddPosition.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net6.0\ref\02.EqualSumsEvenOddPosition.dll
