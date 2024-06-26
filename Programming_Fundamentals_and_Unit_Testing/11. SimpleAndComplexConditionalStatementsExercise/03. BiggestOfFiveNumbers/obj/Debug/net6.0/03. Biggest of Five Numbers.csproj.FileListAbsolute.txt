@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\03\bin\Debug\net6.0\03. Biggest of Five Numbers.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\03\bin\Debug\net6.0\03. Biggest of Five Numbers.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\03\bin\Debug\net6.0\03. Biggest of Five Numbers.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\03\bin\Debug\net6.0\03. Biggest of Five Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\03\bin\Debug\net6.0\03. Biggest of Five Numbers.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\03\obj\Debug\net6.0\03. Biggest of Five Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\03\obj\Debug\net6.0\03. Biggest of Five Numbers.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\03\obj\Debug\net6.0\03. Biggest of Five Numbers.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\03\obj\Debug\net6.0\03. Biggest of Five Numbers.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\03\obj\Debug\net6.0\03. Biggest of Five Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\03\obj\Debug\net6.0\refint\03. Biggest of Five Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\03\obj\Debug\net6.0\03. Biggest of Five Numbers.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\03\obj\Debug\net6.0\03. Biggest of Five Numbers.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\03\obj\Debug\net6.0\ref\03. Biggest of Five Numbers.dll
