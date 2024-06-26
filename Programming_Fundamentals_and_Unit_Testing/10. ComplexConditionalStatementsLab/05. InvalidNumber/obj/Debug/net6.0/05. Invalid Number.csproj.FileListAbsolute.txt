@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\05\bin\Debug\net6.0\05. Invalid Number.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\05\bin\Debug\net6.0\05. Invalid Number.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\05\bin\Debug\net6.0\05. Invalid Number.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\05\bin\Debug\net6.0\05. Invalid Number.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\05\bin\Debug\net6.0\05. Invalid Number.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\05\obj\Debug\net6.0\05. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\05\obj\Debug\net6.0\05. Invalid Number.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\05\obj\Debug\net6.0\05. Invalid Number.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\05\obj\Debug\net6.0\05. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\05\obj\Debug\net6.0\05. Invalid Number.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\05\obj\Debug\net6.0\refint\05. Invalid Number.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\05\obj\Debug\net6.0\05. Invalid Number.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\05\obj\Debug\net6.0\05. Invalid Number.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\05\obj\Debug\net6.0\ref\05. Invalid Number.dll
