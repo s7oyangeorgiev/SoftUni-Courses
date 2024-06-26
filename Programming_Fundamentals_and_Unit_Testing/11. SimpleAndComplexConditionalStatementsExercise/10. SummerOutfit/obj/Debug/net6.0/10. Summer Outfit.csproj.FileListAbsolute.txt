@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\10\bin\Debug\net6.0\10. Summer Outfit.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\10\bin\Debug\net6.0\10. Summer Outfit.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\10\bin\Debug\net6.0\10. Summer Outfit.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\10\bin\Debug\net6.0\10. Summer Outfit.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\10\bin\Debug\net6.0\10. Summer Outfit.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\10\obj\Debug\net6.0\10. Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\10\obj\Debug\net6.0\10. Summer Outfit.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\10\obj\Debug\net6.0\10. Summer Outfit.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\10\obj\Debug\net6.0\10. Summer Outfit.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\10\obj\Debug\net6.0\10. Summer Outfit.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\10\obj\Debug\net6.0\refint\10. Summer Outfit.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\10\obj\Debug\net6.0\10. Summer Outfit.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\10\obj\Debug\net6.0\10. Summer Outfit.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\10\obj\Debug\net6.0\ref\10. Summer Outfit.dll
