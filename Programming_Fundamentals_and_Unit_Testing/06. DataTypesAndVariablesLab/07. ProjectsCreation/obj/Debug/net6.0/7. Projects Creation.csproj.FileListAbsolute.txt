@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\7. Pro\bin\Debug\net6.0\7. Projects Creation.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\7. Pro\bin\Debug\net6.0\7. Projects Creation.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\7. Pro\bin\Debug\net6.0\7. Projects Creation.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\7. Pro\bin\Debug\net6.0\7. Projects Creation.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\7. Pro\bin\Debug\net6.0\7. Projects Creation.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\7. Pro\obj\Debug\net6.0\7. Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\7. Pro\obj\Debug\net6.0\7. Projects Creation.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\7. Pro\obj\Debug\net6.0\7. Projects Creation.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\7. Pro\obj\Debug\net6.0\7. Projects Creation.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\7. Pro\obj\Debug\net6.0\7. Projects Creation.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\7. Pro\obj\Debug\net6.0\refint\7. Projects Creation.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\7. Pro\obj\Debug\net6.0\7. Projects Creation.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\7. Pro\obj\Debug\net6.0\7. Projects Creation.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\7. Pro\obj\Debug\net6.0\ref\7. Projects Creation.dll
