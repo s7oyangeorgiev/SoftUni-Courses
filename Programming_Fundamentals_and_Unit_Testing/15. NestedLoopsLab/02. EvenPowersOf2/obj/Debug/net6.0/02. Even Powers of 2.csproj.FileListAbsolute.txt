@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested Loops - Lab\Nested Loops - Lab\02. Even Powers of 2\bin\Debug\net6.0\02. Even Powers of 2.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested Loops - Lab\Nested Loops - Lab\02. Even Powers of 2\bin\Debug\net6.0\02. Even Powers of 2.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested Loops - Lab\Nested Loops - Lab\02. Even Powers of 2\bin\Debug\net6.0\02. Even Powers of 2.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested Loops - Lab\Nested Loops - Lab\02. Even Powers of 2\bin\Debug\net6.0\02. Even Powers of 2.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested Loops - Lab\Nested Loops - Lab\02. Even Powers of 2\bin\Debug\net6.0\02. Even Powers of 2.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested Loops - Lab\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested Loops - Lab\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested Loops - Lab\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested Loops - Lab\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested Loops - Lab\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested Loops - Lab\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net6.0\refint\02. Even Powers of 2.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested Loops - Lab\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested Loops - Lab\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net6.0\02. Even Powers of 2.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested Loops - Lab\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net6.0\ref\02. Even Powers of 2.dll
