@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\09\bin\Debug\net6.0\09. Sum Seconds.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\09\bin\Debug\net6.0\09. Sum Seconds.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\09\bin\Debug\net6.0\09. Sum Seconds.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\09\bin\Debug\net6.0\09. Sum Seconds.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\09\bin\Debug\net6.0\09. Sum Seconds.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\09\obj\Debug\net6.0\09. Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\09\obj\Debug\net6.0\09. Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\09\obj\Debug\net6.0\09. Sum Seconds.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\09\obj\Debug\net6.0\09. Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\09\obj\Debug\net6.0\09. Sum Seconds.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\09\obj\Debug\net6.0\refint\09. Sum Seconds.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\09\obj\Debug\net6.0\09. Sum Seconds.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\09\obj\Debug\net6.0\09. Sum Seconds.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\09\obj\Debug\net6.0\ref\09. Sum Seconds.dll
