@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\04.Walking\bin\Debug\net6.0\04.Walking.exe
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\04.Walking\bin\Debug\net6.0\04.Walking.deps.json
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\04.Walking\bin\Debug\net6.0\04.Walking.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\04.Walking\bin\Debug\net6.0\04.Walking.dll
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\04.Walking\bin\Debug\net6.0\04.Walking.pdb
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\04.Walking\obj\Debug\net6.0\04.Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\04.Walking\obj\Debug\net6.0\04.Walking.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\04.Walking\obj\Debug\net6.0\04.Walking.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\04.Walking\obj\Debug\net6.0\04.Walking.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\04.Walking\obj\Debug\net6.0\04.Walking.dll
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\04.Walking\obj\Debug\net6.0\refint\04.Walking.dll
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\04.Walking\obj\Debug\net6.0\04.Walking.pdb
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\04.Walking\obj\Debug\net6.0\04.Walking.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\04.Walking\obj\Debug\net6.0\ref\04.Walking.dll
