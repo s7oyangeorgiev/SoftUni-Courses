@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\02. ATM\bin\Debug\net6.0\02. ATM.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\02. ATM\bin\Debug\net6.0\02. ATM.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\02. ATM\bin\Debug\net6.0\02. ATM.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\02. ATM\bin\Debug\net6.0\02. ATM.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\02. ATM\bin\Debug\net6.0\02. ATM.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\02. ATM\obj\Debug\net6.0\02. ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\02. ATM\obj\Debug\net6.0\02. ATM.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\02. ATM\obj\Debug\net6.0\02. ATM.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\02. ATM\obj\Debug\net6.0\02. ATM.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\02. ATM\obj\Debug\net6.0\02. ATM.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\02. ATM\obj\Debug\net6.0\refint\02. ATM.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\02. ATM\obj\Debug\net6.0\02. ATM.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\02. ATM\obj\Debug\net6.0\02. ATM.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\SimpleComplexCondStat-Exercise\SimpleComplexCondStat-Exercise\02. ATM\obj\Debug\net6.0\ref\02. ATM.dll
