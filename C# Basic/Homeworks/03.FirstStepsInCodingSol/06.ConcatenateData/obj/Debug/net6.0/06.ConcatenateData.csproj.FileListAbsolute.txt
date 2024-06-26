@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\06.ConcatenateData\bin\Debug\net6.0\06.ConcatenateData.exe
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\06.ConcatenateData\bin\Debug\net6.0\06.ConcatenateData.deps.json
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\06.ConcatenateData\bin\Debug\net6.0\06.ConcatenateData.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\06.ConcatenateData\bin\Debug\net6.0\06.ConcatenateData.dll
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\06.ConcatenateData\bin\Debug\net6.0\06.ConcatenateData.pdb
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\06.ConcatenateData\obj\Debug\net6.0\06.ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\06.ConcatenateData\obj\Debug\net6.0\06.ConcatenateData.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\06.ConcatenateData\obj\Debug\net6.0\06.ConcatenateData.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\06.ConcatenateData\obj\Debug\net6.0\06.ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\06.ConcatenateData\obj\Debug\net6.0\06.ConcatenateData.dll
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\06.ConcatenateData\obj\Debug\net6.0\refint\06.ConcatenateData.dll
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\06.ConcatenateData\obj\Debug\net6.0\06.ConcatenateData.pdb
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\06.ConcatenateData\obj\Debug\net6.0\06.ConcatenateData.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\06.ConcatenateData\obj\Debug\net6.0\ref\06.ConcatenateData.dll
