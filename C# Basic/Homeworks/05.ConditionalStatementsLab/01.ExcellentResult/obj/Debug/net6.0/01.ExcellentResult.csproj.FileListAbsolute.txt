@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\01.ExcellentResult\bin\Debug\net6.0\01.ExcellentResult.exe
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\01.ExcellentResult\bin\Debug\net6.0\01.ExcellentResult.deps.json
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\01.ExcellentResult\bin\Debug\net6.0\01.ExcellentResult.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\01.ExcellentResult\bin\Debug\net6.0\01.ExcellentResult.dll
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\01.ExcellentResult\bin\Debug\net6.0\01.ExcellentResult.pdb
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\01.ExcellentResult\obj\Debug\net6.0\01.ExcellentResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\01.ExcellentResult\obj\Debug\net6.0\01.ExcellentResult.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\01.ExcellentResult\obj\Debug\net6.0\01.ExcellentResult.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\01.ExcellentResult\obj\Debug\net6.0\01.ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\01.ExcellentResult\obj\Debug\net6.0\01.ExcellentResult.dll
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\01.ExcellentResult\obj\Debug\net6.0\refint\01.ExcellentResult.dll
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\01.ExcellentResult\obj\Debug\net6.0\01.ExcellentResult.pdb
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\01.ExcellentResult\obj\Debug\net6.0\01.ExcellentResult.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\01.ExcellentResult\obj\Debug\net6.0\ref\01.ExcellentResult.dll
