@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\3. Customer Info\bin\Debug\net6.0\3. Customer Info.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\3. Customer Info\bin\Debug\net6.0\3. Customer Info.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\3. Customer Info\bin\Debug\net6.0\3. Customer Info.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\3. Customer Info\bin\Debug\net6.0\3. Customer Info.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\3. Customer Info\bin\Debug\net6.0\3. Customer Info.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\refint\3. Customer Info.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\ref\3. Customer Info.dll
