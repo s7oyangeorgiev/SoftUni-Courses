@@ -1,0 +1,28 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\2. Print 5x5\bin\Debug\net6.0\2. Print 5x5.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\2. Print 5x5\bin\Debug\net6.0\2. Print 5x5.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\2. Print 5x5\bin\Debug\net6.0\2. Print 5x5.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\2. Print 5x5\bin\Debug\net6.0\2. Print 5x5.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\2. Print 5x5\bin\Debug\net6.0\2. Print 5x5.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\2. Print 5x5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\2. Print 5x5.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\2. Print 5x5.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\2. Print 5x5.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\2. Print 5x5.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\refint\2. Print 5x5.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\2. Print 5x5.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\2. Print 5x5.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\ref\2. Print 5x5.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\2. Print 5x5\bin\Debug\net6.0\2. Print 5x5.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\2. Print 5x5\bin\Debug\net6.0\2. Print 5x5.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\2. Print 5x5\bin\Debug\net6.0\2. Print 5x5.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\2. Print 5x5\bin\Debug\net6.0\2. Print 5x5.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\2. Print 5x5\bin\Debug\net6.0\2. Print 5x5.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\2. Print 5x5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\2. Print 5x5.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\2. Print 5x5.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\2. Print 5x5.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\2. Print 5x5.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\refint\2. Print 5x5.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\2. Print 5x5.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\2. Print 5x5.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\2. Print 5x5\obj\Debug\net6.0\ref\2. Print 5x5.dll
