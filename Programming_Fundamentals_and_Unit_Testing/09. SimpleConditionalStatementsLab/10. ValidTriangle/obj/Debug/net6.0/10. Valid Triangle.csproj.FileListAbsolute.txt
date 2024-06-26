@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\10\bin\Debug\net6.0\10. Valid Triangle.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\10\bin\Debug\net6.0\10. Valid Triangle.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\10\bin\Debug\net6.0\10. Valid Triangle.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\10\bin\Debug\net6.0\10. Valid Triangle.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\10\bin\Debug\net6.0\10. Valid Triangle.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\10\obj\Debug\net6.0\10. Valid Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\10\obj\Debug\net6.0\10. Valid Triangle.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\10\obj\Debug\net6.0\10. Valid Triangle.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\10\obj\Debug\net6.0\10. Valid Triangle.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\10\obj\Debug\net6.0\10. Valid Triangle.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\10\obj\Debug\net6.0\refint\10. Valid Triangle.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\10\obj\Debug\net6.0\10. Valid Triangle.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\10\obj\Debug\net6.0\10. Valid Triangle.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\10\obj\Debug\net6.0\ref\10. Valid Triangle.dll
