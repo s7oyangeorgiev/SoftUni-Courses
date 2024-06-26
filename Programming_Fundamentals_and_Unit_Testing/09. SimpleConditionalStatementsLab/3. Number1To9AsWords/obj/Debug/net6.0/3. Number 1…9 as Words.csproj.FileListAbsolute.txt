@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\3\bin\Debug\net6.0\3. Number 1…9 as Words.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\3\bin\Debug\net6.0\3. Number 1…9 as Words.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\3\bin\Debug\net6.0\3. Number 1…9 as Words.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\3\bin\Debug\net6.0\3. Number 1…9 as Words.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\3\bin\Debug\net6.0\3. Number 1…9 as Words.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\3\obj\Debug\net6.0\3. Number 1…9 as Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\3\obj\Debug\net6.0\3. Number 1…9 as Words.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\3\obj\Debug\net6.0\3. Number 1…9 as Words.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\3\obj\Debug\net6.0\3. Number 1…9 as Words.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\3\obj\Debug\net6.0\3. Number 1…9 as Words.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\3\obj\Debug\net6.0\refint\3. Number 1…9 as Words.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\3\obj\Debug\net6.0\3. Number 1…9 as Words.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\3\obj\Debug\net6.0\3. Number 1…9 as Words.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\3\obj\Debug\net6.0\ref\3. Number 1…9 as Words.dll
