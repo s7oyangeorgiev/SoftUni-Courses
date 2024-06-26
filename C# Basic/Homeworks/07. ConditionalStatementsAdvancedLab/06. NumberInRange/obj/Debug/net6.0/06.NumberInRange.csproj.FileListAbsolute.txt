@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\06.NumberInRange\bin\Debug\net6.0\06.NumberInRange.exe
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\06.NumberInRange\bin\Debug\net6.0\06.NumberInRange.deps.json
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\06.NumberInRange\bin\Debug\net6.0\06.NumberInRange.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\06.NumberInRange\bin\Debug\net6.0\06.NumberInRange.dll
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\06.NumberInRange\bin\Debug\net6.0\06.NumberInRange.pdb
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\06.NumberInRange\obj\Debug\net6.0\06.NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\06.NumberInRange\obj\Debug\net6.0\06.NumberInRange.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\06.NumberInRange\obj\Debug\net6.0\06.NumberInRange.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\06.NumberInRange\obj\Debug\net6.0\06.NumberInRange.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\06.NumberInRange\obj\Debug\net6.0\06.NumberInRange.dll
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\06.NumberInRange\obj\Debug\net6.0\refint\06.NumberInRange.dll
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\06.NumberInRange\obj\Debug\net6.0\06.NumberInRange.pdb
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\06.NumberInRange\obj\Debug\net6.0\06.NumberInRange.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\06.NumberInRange\obj\Debug\net6.0\ref\06.NumberInRange.dll
