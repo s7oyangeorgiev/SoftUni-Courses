@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\02. Magic\bin\Debug\net6.0\02. Magic Numbers.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\02. Magic\bin\Debug\net6.0\02. Magic Numbers.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\02. Magic\bin\Debug\net6.0\02. Magic Numbers.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\02. Magic\bin\Debug\net6.0\02. Magic Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\02. Magic\bin\Debug\net6.0\02. Magic Numbers.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\02. Magic\obj\Debug\net6.0\02. Magic Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\02. Magic\obj\Debug\net6.0\02. Magic Numbers.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\02. Magic\obj\Debug\net6.0\02. Magic Numbers.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\02. Magic\obj\Debug\net6.0\02. Magic Numbers.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\02. Magic\obj\Debug\net6.0\02. Magic Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\02. Magic\obj\Debug\net6.0\refint\02. Magic Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\02. Magic\obj\Debug\net6.0\02. Magic Numbers.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\02. Magic\obj\Debug\net6.0\02. Magic Numbers.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\02. Magic\obj\Debug\net6.0\ref\02. Magic Numbers.dll
