@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\3. CAP\bin\Debug\net6.0\3. Circle Area and Perimeter.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\3. CAP\bin\Debug\net6.0\3. Circle Area and Perimeter.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\3. CAP\bin\Debug\net6.0\3. Circle Area and Perimeter.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\3. CAP\bin\Debug\net6.0\3. Circle Area and Perimeter.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\3. CAP\bin\Debug\net6.0\3. Circle Area and Perimeter.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\3. CAP\obj\Debug\net6.0\3. Circle Area and Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\3. CAP\obj\Debug\net6.0\3. Circle Area and Perimeter.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\3. CAP\obj\Debug\net6.0\3. Circle Area and Perimeter.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\3. CAP\obj\Debug\net6.0\3. Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\3. CAP\obj\Debug\net6.0\3. Circle Area and Perimeter.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\3. CAP\obj\Debug\net6.0\refint\3. Circle Area and Perimeter.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\3. CAP\obj\Debug\net6.0\3. Circle Area and Perimeter.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\3. CAP\obj\Debug\net6.0\3. Circle Area and Perimeter.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data Types and Variables - Lab\Data Types and Variables - Lab\3. CAP\obj\Debug\net6.0\ref\3. Circle Area and Perimeter.dll
