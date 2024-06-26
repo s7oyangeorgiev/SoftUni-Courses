@@ -1,0 +1,11 @@
+{
+  "solution": {
+    "path": "1. Hello C#\\1. Hello C#.sln",
+    "projects": [
+      "..\\2. Print 5x5\\2. Print 5x5.csproj",
+      "..\\3. Name and Expression\\3. Name and Expression.csproj",
+      "..\\4. Calculations\\4. Calculations.csproj",
+      "1. Hello C#.csproj"
+    ]
+  }
+}
