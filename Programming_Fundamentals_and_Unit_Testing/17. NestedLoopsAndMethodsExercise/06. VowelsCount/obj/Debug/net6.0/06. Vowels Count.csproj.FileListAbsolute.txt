@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\06. Vowels\bin\Debug\net6.0\06. Vowels Count.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\06. Vowels\bin\Debug\net6.0\06. Vowels Count.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\06. Vowels\bin\Debug\net6.0\06. Vowels Count.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\06. Vowels\bin\Debug\net6.0\06. Vowels Count.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\06. Vowels\bin\Debug\net6.0\06. Vowels Count.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\06. Vowels\obj\Debug\net6.0\06. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\06. Vowels\obj\Debug\net6.0\06. Vowels Count.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\06. Vowels\obj\Debug\net6.0\06. Vowels Count.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\06. Vowels\obj\Debug\net6.0\06. Vowels Count.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\06. Vowels\obj\Debug\net6.0\06. Vowels Count.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\06. Vowels\obj\Debug\net6.0\refint\06. Vowels Count.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\06. Vowels\obj\Debug\net6.0\06. Vowels Count.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\06. Vowels\obj\Debug\net6.0\06. Vowels Count.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\06. Vowels\obj\Debug\net6.0\ref\06. Vowels Count.dll
