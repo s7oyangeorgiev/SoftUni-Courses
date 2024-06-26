@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\03.Time+15Minutes\bin\Debug\net6.0\03.Time+15Minutes.exe
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\03.Time+15Minutes\bin\Debug\net6.0\03.Time+15Minutes.deps.json
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\03.Time+15Minutes\bin\Debug\net6.0\03.Time+15Minutes.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\03.Time+15Minutes\bin\Debug\net6.0\03.Time+15Minutes.dll
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\03.Time+15Minutes\bin\Debug\net6.0\03.Time+15Minutes.pdb
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\03.Time+15Minutes\obj\Debug\net6.0\03.Time+15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\03.Time+15Minutes\obj\Debug\net6.0\03.Time+15Minutes.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\03.Time+15Minutes\obj\Debug\net6.0\03.Time+15Minutes.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\03.Time+15Minutes\obj\Debug\net6.0\03.Time+15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\03.Time+15Minutes\obj\Debug\net6.0\03.Time+15Minutes.dll
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\03.Time+15Minutes\obj\Debug\net6.0\refint\03.Time+15Minutes.dll
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\03.Time+15Minutes\obj\Debug\net6.0\03.Time+15Minutes.pdb
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\03.Time+15Minutes\obj\Debug\net6.0\03.Time+15Minutes.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\03.Time+15Minutes\obj\Debug\net6.0\ref\03.Time+15Minutes.dll
