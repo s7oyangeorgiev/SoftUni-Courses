@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\net6.0\04.TrainTheTrainers.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\net6.0\04.TrainTheTrainers.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\net6.0\04.TrainTheTrainers.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\net6.0\04.TrainTheTrainers.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\net6.0\04.TrainTheTrainers.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net6.0\04.TrainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net6.0\04.TrainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net6.0\04.TrainTheTrainers.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net6.0\04.TrainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net6.0\04.TrainTheTrainers.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net6.0\refint\04.TrainTheTrainers.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net6.0\04.TrainTheTrainers.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net6.0\04.TrainTheTrainers.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net6.0\ref\04.TrainTheTrainers.dll
