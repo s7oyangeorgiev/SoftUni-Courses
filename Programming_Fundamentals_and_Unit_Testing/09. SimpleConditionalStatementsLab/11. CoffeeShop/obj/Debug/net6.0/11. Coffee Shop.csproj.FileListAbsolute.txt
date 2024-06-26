@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\11\bin\Debug\net6.0\11. Coffee Shop.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\11\bin\Debug\net6.0\11. Coffee Shop.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\11\bin\Debug\net6.0\11. Coffee Shop.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\11\bin\Debug\net6.0\11. Coffee Shop.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\11\bin\Debug\net6.0\11. Coffee Shop.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\11\obj\Debug\net6.0\11. Coffee Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\11\obj\Debug\net6.0\11. Coffee Shop.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\11\obj\Debug\net6.0\11. Coffee Shop.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\11\obj\Debug\net6.0\11. Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\11\obj\Debug\net6.0\11. Coffee Shop.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\11\obj\Debug\net6.0\refint\11. Coffee Shop.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\11\obj\Debug\net6.0\11. Coffee Shop.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\11\obj\Debug\net6.0\11. Coffee Shop.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\11\obj\Debug\net6.0\ref\11. Coffee Shop.dll
