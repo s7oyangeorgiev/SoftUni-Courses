@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\9\bin\Debug\net6.0\9. Area of Figures.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\9\bin\Debug\net6.0\9. Area of Figures.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\9\bin\Debug\net6.0\9. Area of Figures.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\9\bin\Debug\net6.0\9. Area of Figures.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\9\bin\Debug\net6.0\9. Area of Figures.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\9\obj\Debug\net6.0\9. Area of Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\9\obj\Debug\net6.0\9. Area of Figures.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\9\obj\Debug\net6.0\9. Area of Figures.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\9\obj\Debug\net6.0\9. Area of Figures.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\9\obj\Debug\net6.0\9. Area of Figures.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\9\obj\Debug\net6.0\refint\9. Area of Figures.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\9\obj\Debug\net6.0\9. Area of Figures.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\9\obj\Debug\net6.0\9. Area of Figures.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\9\obj\Debug\net6.0\ref\9. Area of Figures.dll
