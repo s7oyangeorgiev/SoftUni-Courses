@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\03. Odd Number\bin\Debug\net6.0\03. Odd Number.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\03. Odd Number\bin\Debug\net6.0\03. Odd Number.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\03. Odd Number\bin\Debug\net6.0\03. Odd Number.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\03. Odd Number\bin\Debug\net6.0\03. Odd Number.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\03. Odd Number\bin\Debug\net6.0\03. Odd Number.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\03. Odd Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\03. Odd Number.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\03. Odd Number.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\03. Odd Number.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\03. Odd Number.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\refint\03. Odd Number.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\03. Odd Number.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\03. Odd Number.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\ref\03. Odd Number.dll
