@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays and Lists - Exercise\Arrays and Lists - Exercise\07. ZigZagArrays\bin\Debug\net6.0\07. ZigZagArrays.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays and Lists - Exercise\Arrays and Lists - Exercise\07. ZigZagArrays\bin\Debug\net6.0\07. ZigZagArrays.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays and Lists - Exercise\Arrays and Lists - Exercise\07. ZigZagArrays\bin\Debug\net6.0\07. ZigZagArrays.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays and Lists - Exercise\Arrays and Lists - Exercise\07. ZigZagArrays\bin\Debug\net6.0\07. ZigZagArrays.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays and Lists - Exercise\Arrays and Lists - Exercise\07. ZigZagArrays\bin\Debug\net6.0\07. ZigZagArrays.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays and Lists - Exercise\Arrays and Lists - Exercise\07. ZigZagArrays\obj\Debug\net6.0\07. ZigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays and Lists - Exercise\Arrays and Lists - Exercise\07. ZigZagArrays\obj\Debug\net6.0\07. ZigZagArrays.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays and Lists - Exercise\Arrays and Lists - Exercise\07. ZigZagArrays\obj\Debug\net6.0\07. ZigZagArrays.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays and Lists - Exercise\Arrays and Lists - Exercise\07. ZigZagArrays\obj\Debug\net6.0\07. ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays and Lists - Exercise\Arrays and Lists - Exercise\07. ZigZagArrays\obj\Debug\net6.0\07. ZigZagArrays.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays and Lists - Exercise\Arrays and Lists - Exercise\07. ZigZagArrays\obj\Debug\net6.0\refint\07. ZigZagArrays.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays and Lists - Exercise\Arrays and Lists - Exercise\07. ZigZagArrays\obj\Debug\net6.0\07. ZigZagArrays.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays and Lists - Exercise\Arrays and Lists - Exercise\07. ZigZagArrays\obj\Debug\net6.0\07. ZigZagArrays.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays and Lists - Exercise\Arrays and Lists - Exercise\07. ZigZagArrays\obj\Debug\net6.0\ref\07. ZigZagArrays.dll
