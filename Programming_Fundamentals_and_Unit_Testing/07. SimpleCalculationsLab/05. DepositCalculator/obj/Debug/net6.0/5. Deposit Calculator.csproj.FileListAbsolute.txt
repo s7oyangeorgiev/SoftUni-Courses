@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\5. Deposit Calculator\bin\Debug\net6.0\5. Deposit Calculator.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\5. Deposit Calculator\bin\Debug\net6.0\5. Deposit Calculator.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\5. Deposit Calculator\bin\Debug\net6.0\5. Deposit Calculator.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\5. Deposit Calculator\bin\Debug\net6.0\5. Deposit Calculator.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\5. Deposit Calculator\bin\Debug\net6.0\5. Deposit Calculator.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\5. Deposit Calculator\obj\Debug\net6.0\5. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\5. Deposit Calculator\obj\Debug\net6.0\5. Deposit Calculator.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\5. Deposit Calculator\obj\Debug\net6.0\5. Deposit Calculator.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\5. Deposit Calculator\obj\Debug\net6.0\5. Deposit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\5. Deposit Calculator\obj\Debug\net6.0\5. Deposit Calculator.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\5. Deposit Calculator\obj\Debug\net6.0\refint\5. Deposit Calculator.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\5. Deposit Calculator\obj\Debug\net6.0\5. Deposit Calculator.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\5. Deposit Calculator\obj\Debug\net6.0\5. Deposit Calculator.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\5. Deposit Calculator\obj\Debug\net6.0\ref\5. Deposit Calculator.dll
