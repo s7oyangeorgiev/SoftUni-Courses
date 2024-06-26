@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\01. Numbers 1 to 100\bin\Debug\net6.0\01. Numbers 1 to 100.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\01. Numbers 1 to 100\bin\Debug\net6.0\01. Numbers 1 to 100.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\01. Numbers 1 to 100\bin\Debug\net6.0\01. Numbers 1 to 100.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\01. Numbers 1 to 100\bin\Debug\net6.0\01. Numbers 1 to 100.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\01. Numbers 1 to 100\bin\Debug\net6.0\01. Numbers 1 to 100.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\01. Numbers 1 to 100\obj\Debug\net6.0\01. Numbers 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\01. Numbers 1 to 100\obj\Debug\net6.0\01. Numbers 1 to 100.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\01. Numbers 1 to 100\obj\Debug\net6.0\01. Numbers 1 to 100.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\01. Numbers 1 to 100\obj\Debug\net6.0\01. Numbers 1 to 100.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\01. Numbers 1 to 100\obj\Debug\net6.0\01. Numbers 1 to 100.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\01. Numbers 1 to 100\obj\Debug\net6.0\refint\01. Numbers 1 to 100.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\01. Numbers 1 to 100\obj\Debug\net6.0\01. Numbers 1 to 100.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\01. Numbers 1 to 100\obj\Debug\net6.0\01. Numbers 1 to 100.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\01. Numbers 1 to 100\obj\Debug\net6.0\ref\01. Numbers 1 to 100.dll
