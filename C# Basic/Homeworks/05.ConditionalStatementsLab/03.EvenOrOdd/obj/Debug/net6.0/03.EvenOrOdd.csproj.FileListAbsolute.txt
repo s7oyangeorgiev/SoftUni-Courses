@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\03.EvenOrOdd\bin\Debug\net6.0\03.EvenOrOdd.exe
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\03.EvenOrOdd\bin\Debug\net6.0\03.EvenOrOdd.deps.json
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\03.EvenOrOdd\bin\Debug\net6.0\03.EvenOrOdd.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\03.EvenOrOdd\bin\Debug\net6.0\03.EvenOrOdd.dll
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\03.EvenOrOdd\bin\Debug\net6.0\03.EvenOrOdd.pdb
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.dll
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\03.EvenOrOdd\obj\Debug\net6.0\refint\03.EvenOrOdd.dll
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.pdb
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\05.ConditionalStatementsLab\03.EvenOrOdd\obj\Debug\net6.0\ref\03.EvenOrOdd.dll
