@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\1. Hello SoftUni\bin\Debug\net6.0\1. Hello SoftUni.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\1. Hello SoftUni\bin\Debug\net6.0\1. Hello SoftUni.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\1. Hello SoftUni\bin\Debug\net6.0\1. Hello SoftUni.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\1. Hello SoftUni\bin\Debug\net6.0\1. Hello SoftUni.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\1. Hello SoftUni\bin\Debug\net6.0\1. Hello SoftUni.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\1. Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\1. Hello SoftUni.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\1. Hello SoftUni.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\1. Hello SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\1. Hello SoftUni.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\refint\1. Hello SoftUni.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\1. Hello SoftUni.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\1. Hello SoftUni.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\ref\1. Hello SoftUni.dll
