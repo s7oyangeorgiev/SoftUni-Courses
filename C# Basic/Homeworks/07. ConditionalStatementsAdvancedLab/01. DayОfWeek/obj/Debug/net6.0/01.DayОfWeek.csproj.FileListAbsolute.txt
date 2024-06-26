@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\01.DayОfWeek\bin\Debug\net6.0\01.DayОfWeek.exe
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\01.DayОfWeek\bin\Debug\net6.0\01.DayОfWeek.deps.json
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\01.DayОfWeek\bin\Debug\net6.0\01.DayОfWeek.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\01.DayОfWeek\bin\Debug\net6.0\01.DayОfWeek.dll
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\01.DayОfWeek\bin\Debug\net6.0\01.DayОfWeek.pdb
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\01.DayОfWeek\obj\Debug\net6.0\01.DayОfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\01.DayОfWeek\obj\Debug\net6.0\01.DayОfWeek.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\01.DayОfWeek\obj\Debug\net6.0\01.DayОfWeek.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\01.DayОfWeek\obj\Debug\net6.0\01.DayОfWeek.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\01.DayОfWeek\obj\Debug\net6.0\01.DayОfWeek.dll
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\01.DayОfWeek\obj\Debug\net6.0\refint\01.DayОfWeek.dll
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\01.DayОfWeek\obj\Debug\net6.0\01.DayОfWeek.pdb
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\01.DayОfWeek\obj\Debug\net6.0\01.DayОfWeek.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\01.DayОfWeek\obj\Debug\net6.0\ref\01.DayОfWeek.dll
