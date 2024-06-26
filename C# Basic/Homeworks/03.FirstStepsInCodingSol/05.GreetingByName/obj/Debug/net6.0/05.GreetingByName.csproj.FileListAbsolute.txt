@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\05.GreetingByName\bin\Debug\net6.0\05.GreetingByName.exe
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\05.GreetingByName\bin\Debug\net6.0\05.GreetingByName.deps.json
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\05.GreetingByName\bin\Debug\net6.0\05.GreetingByName.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\05.GreetingByName\bin\Debug\net6.0\05.GreetingByName.dll
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\05.GreetingByName\bin\Debug\net6.0\05.GreetingByName.pdb
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.dll
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\05.GreetingByName\obj\Debug\net6.0\refint\05.GreetingByName.dll
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.pdb
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\05.GreetingByName\obj\Debug\net6.0\ref\05.GreetingByName.dll
