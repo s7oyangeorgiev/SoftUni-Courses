@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\06.WorldSwimmingRecord\bin\Debug\net6.0\06.WorldSwimmingRecord.exe
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\06.WorldSwimmingRecord\bin\Debug\net6.0\06.WorldSwimmingRecord.deps.json
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\06.WorldSwimmingRecord\bin\Debug\net6.0\06.WorldSwimmingRecord.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\06.WorldSwimmingRecord\bin\Debug\net6.0\06.WorldSwimmingRecord.dll
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\06.WorldSwimmingRecord\bin\Debug\net6.0\06.WorldSwimmingRecord.pdb
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.dll
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\06.WorldSwimmingRecord\obj\Debug\net6.0\refint\06.WorldSwimmingRecord.dll
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.pdb
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\06.WorldSwimmingRecord\obj\Debug\net6.0\ref\06.WorldSwimmingRecord.dll
