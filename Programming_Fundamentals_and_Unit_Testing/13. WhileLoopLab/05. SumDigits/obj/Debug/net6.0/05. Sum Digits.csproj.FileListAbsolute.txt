@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\05. Sum Digits\bin\Debug\net6.0\05. Sum Digits.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\05. Sum Digits\bin\Debug\net6.0\05. Sum Digits.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\05. Sum Digits\bin\Debug\net6.0\05. Sum Digits.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\05. Sum Digits\bin\Debug\net6.0\05. Sum Digits.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\05. Sum Digits\bin\Debug\net6.0\05. Sum Digits.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\05. Sum Digits\obj\Debug\net6.0\05. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\05. Sum Digits\obj\Debug\net6.0\05. Sum Digits.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\05. Sum Digits\obj\Debug\net6.0\05. Sum Digits.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\05. Sum Digits\obj\Debug\net6.0\05. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\05. Sum Digits\obj\Debug\net6.0\05. Sum Digits.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\05. Sum Digits\obj\Debug\net6.0\refint\05. Sum Digits.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\05. Sum Digits\obj\Debug\net6.0\05. Sum Digits.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\05. Sum Digits\obj\Debug\net6.0\05. Sum Digits.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\05. Sum Digits\obj\Debug\net6.0\ref\05. Sum Digits.dll
