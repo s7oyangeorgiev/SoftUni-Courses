@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\01. Numbers in Range\bin\Debug\net6.0\01. Numbers in Range.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\01. Numbers in Range\bin\Debug\net6.0\01. Numbers in Range.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\01. Numbers in Range\bin\Debug\net6.0\01. Numbers in Range.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\01. Numbers in Range\bin\Debug\net6.0\01. Numbers in Range.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\01. Numbers in Range\bin\Debug\net6.0\01. Numbers in Range.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\refint\01. Numbers in Range.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\ref\01. Numbers in Range.dll
