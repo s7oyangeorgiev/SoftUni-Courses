@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.exe
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.deps.json
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.dll
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.pdb
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.dll
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\refint\06.MaxNumber.dll
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.pdb
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\11.WhileLoop-Lab\06.MaxNumber\obj\Debug\net6.0\ref\06.MaxNumber.dll
