@@ -1,0 +1,28 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\4. Calculations\bin\Debug\net6.0\4. Calculations.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\4. Calculations\bin\Debug\net6.0\4. Calculations.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\4. Calculations\bin\Debug\net6.0\4. Calculations.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\4. Calculations\bin\Debug\net6.0\4. Calculations.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\4. Calculations\bin\Debug\net6.0\4. Calculations.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\4. Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\4. Calculations.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\4. Calculations.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\4. Calculations.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\4. Calculations.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\refint\4. Calculations.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\4. Calculations.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\4. Calculations.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\ref\4. Calculations.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\4. Calculations\bin\Debug\net6.0\4. Calculations.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\4. Calculations\bin\Debug\net6.0\4. Calculations.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\4. Calculations\bin\Debug\net6.0\4. Calculations.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\4. Calculations\bin\Debug\net6.0\4. Calculations.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\4. Calculations\bin\Debug\net6.0\4. Calculations.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\4. Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\4. Calculations.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\4. Calculations.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\4. Calculations.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\4. Calculations.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\refint\4. Calculations.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\4. Calculations.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\4. Calculations.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\03. Simple Commands - Lab\4. Calculations\obj\Debug\net6.0\ref\4. Calculations.dll
