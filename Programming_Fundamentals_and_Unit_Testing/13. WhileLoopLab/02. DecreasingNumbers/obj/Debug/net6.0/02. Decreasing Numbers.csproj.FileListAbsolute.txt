@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\02. Decreasing Numbers\bin\Debug\net6.0\02. Decreasing Numbers.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\02. Decreasing Numbers\bin\Debug\net6.0\02. Decreasing Numbers.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\02. Decreasing Numbers\bin\Debug\net6.0\02. Decreasing Numbers.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\02. Decreasing Numbers\bin\Debug\net6.0\02. Decreasing Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\02. Decreasing Numbers\bin\Debug\net6.0\02. Decreasing Numbers.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\refint\02. Decreasing Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\ref\02. Decreasing Numbers.dll
