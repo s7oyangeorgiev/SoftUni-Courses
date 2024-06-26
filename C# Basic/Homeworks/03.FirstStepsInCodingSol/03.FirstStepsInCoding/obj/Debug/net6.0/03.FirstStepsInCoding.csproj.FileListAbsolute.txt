@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\03.FirstStepsInCoding\bin\Debug\net6.0\03.FirstStepsInCoding.exe
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\03.FirstStepsInCoding\bin\Debug\net6.0\03.FirstStepsInCoding.deps.json
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\03.FirstStepsInCoding\bin\Debug\net6.0\03.FirstStepsInCoding.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\03.FirstStepsInCoding\bin\Debug\net6.0\03.FirstStepsInCoding.dll
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\03.FirstStepsInCoding\bin\Debug\net6.0\03.FirstStepsInCoding.pdb
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\03.FirstStepsInCoding\obj\Debug\net6.0\03.FirstStepsInCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\03.FirstStepsInCoding\obj\Debug\net6.0\03.FirstStepsInCoding.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\03.FirstStepsInCoding\obj\Debug\net6.0\03.FirstStepsInCoding.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\03.FirstStepsInCoding\obj\Debug\net6.0\03.FirstStepsInCoding.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\03.FirstStepsInCoding\obj\Debug\net6.0\03.FirstStepsInCoding.dll
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\03.FirstStepsInCoding\obj\Debug\net6.0\refint\03.FirstStepsInCoding.dll
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\03.FirstStepsInCoding\obj\Debug\net6.0\03.FirstStepsInCoding.pdb
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\03.FirstStepsInCoding\obj\Debug\net6.0\03.FirstStepsInCoding.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\03.FirstStepsInCodingSol\03.FirstStepsInCoding\obj\Debug\net6.0\ref\03.FirstStepsInCoding.dll
