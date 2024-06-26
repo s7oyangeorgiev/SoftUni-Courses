@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.exe
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.deps.json
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.dll
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.pdb
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.dll
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\08.LunchBreak\obj\Debug\net6.0\refint\08.LunchBreak.dll
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.pdb
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\08.LunchBreak\obj\Debug\net6.0\ref\08.LunchBreak.dll
