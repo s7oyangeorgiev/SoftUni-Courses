@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\02. First N Numbers Sum\bin\Debug\net6.0\02. First N Numbers Sum.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\02. First N Numbers Sum\bin\Debug\net6.0\02. First N Numbers Sum.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\02. First N Numbers Sum\bin\Debug\net6.0\02. First N Numbers Sum.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\02. First N Numbers Sum\bin\Debug\net6.0\02. First N Numbers Sum.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\02. First N Numbers Sum\bin\Debug\net6.0\02. First N Numbers Sum.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\02. First N Numbers Sum\obj\Debug\net6.0\02. First N Numbers Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\02. First N Numbers Sum\obj\Debug\net6.0\02. First N Numbers Sum.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\02. First N Numbers Sum\obj\Debug\net6.0\02. First N Numbers Sum.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\02. First N Numbers Sum\obj\Debug\net6.0\02. First N Numbers Sum.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\02. First N Numbers Sum\obj\Debug\net6.0\02. First N Numbers Sum.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\02. First N Numbers Sum\obj\Debug\net6.0\refint\02. First N Numbers Sum.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\02. First N Numbers Sum\obj\Debug\net6.0\02. First N Numbers Sum.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\02. First N Numbers Sum\obj\Debug\net6.0\02. First N Numbers Sum.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\For Loop - Lab\For Loop - Lab\02. First N Numbers Sum\obj\Debug\net6.0\ref\02. First N Numbers Sum.dll
