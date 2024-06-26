@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\06.Building\bin\Debug\net6.0\06.Building.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\06.Building\bin\Debug\net6.0\06.Building.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\06.Building\bin\Debug\net6.0\06.Building.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\06.Building\bin\Debug\net6.0\06.Building.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\06.Building\bin\Debug\net6.0\06.Building.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\06.Building\obj\Debug\net6.0\06.Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\06.Building\obj\Debug\net6.0\06.Building.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\06.Building\obj\Debug\net6.0\06.Building.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\06.Building\obj\Debug\net6.0\06.Building.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\06.Building\obj\Debug\net6.0\06.Building.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\06.Building\obj\Debug\net6.0\refint\06.Building.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\06.Building\obj\Debug\net6.0\06.Building.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\06.Building\obj\Debug\net6.0\06.Building.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\13.NestedLoops-Lab\06.Building\obj\Debug\net6.0\ref\06.Building.dll
