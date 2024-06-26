@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\04\bin\Debug\net6.0\04. Food Delivery.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\04\bin\Debug\net6.0\04. Food Delivery.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\04\bin\Debug\net6.0\04. Food Delivery.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\04\bin\Debug\net6.0\04. Food Delivery.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\04\bin\Debug\net6.0\04. Food Delivery.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\04\obj\Debug\net6.0\04. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\04\obj\Debug\net6.0\04. Food Delivery.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\04\obj\Debug\net6.0\04. Food Delivery.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\04\obj\Debug\net6.0\04. Food Delivery.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\04\obj\Debug\net6.0\04. Food Delivery.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\04\obj\Debug\net6.0\refint\04. Food Delivery.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\04\obj\Debug\net6.0\04. Food Delivery.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\04\obj\Debug\net6.0\04. Food Delivery.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\04\obj\Debug\net6.0\ref\04. Food Delivery.dll
