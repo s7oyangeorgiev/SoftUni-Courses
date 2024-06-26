@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays - Lab\Arrays - Lab\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays - Lab\Arrays - Lab\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays - Lab\Arrays - Lab\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays - Lab\Arrays - Lab\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays - Lab\Arrays - Lab\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays - Lab\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays - Lab\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays - Lab\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays - Lab\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays - Lab\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays - Lab\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\refint\05. Equal Arrays.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays - Lab\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays - Lab\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Arrays - Lab\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\ref\05. Equal Arrays.dll
