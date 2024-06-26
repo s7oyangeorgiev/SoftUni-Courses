@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\05.GodzillaVsKong\bin\Debug\net6.0\05.GodzillaVsKong.exe
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\05.GodzillaVsKong\bin\Debug\net6.0\05.GodzillaVsKong.deps.json
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\05.GodzillaVsKong\bin\Debug\net6.0\05.GodzillaVsKong.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\05.GodzillaVsKong\bin\Debug\net6.0\05.GodzillaVsKong.dll
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\05.GodzillaVsKong\bin\Debug\net6.0\05.GodzillaVsKong.pdb
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\05.GodzillaVsKong\obj\Debug\net6.0\05.GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\05.GodzillaVsKong\obj\Debug\net6.0\05.GodzillaVsKong.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\05.GodzillaVsKong\obj\Debug\net6.0\05.GodzillaVsKong.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\05.GodzillaVsKong\obj\Debug\net6.0\05.GodzillaVsKong.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\05.GodzillaVsKong\obj\Debug\net6.0\05.GodzillaVsKong.dll
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\05.GodzillaVsKong\obj\Debug\net6.0\refint\05.GodzillaVsKong.dll
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\05.GodzillaVsKong\obj\Debug\net6.0\05.GodzillaVsKong.pdb
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\05.GodzillaVsKong\obj\Debug\net6.0\05.GodzillaVsKong.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\06.Conditional StatementsExercise\05.GodzillaVsKong\obj\Debug\net6.0\ref\05.GodzillaVsKong.dll
