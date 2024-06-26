@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\09.ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net6.0\09.LeftAndRightSum.exe
+C:\Users\stoyan\Desktop\C# Projects\09.ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net6.0\09.LeftAndRightSum.deps.json
+C:\Users\stoyan\Desktop\C# Projects\09.ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net6.0\09.LeftAndRightSum.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\09.ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net6.0\09.LeftAndRightSum.dll
+C:\Users\stoyan\Desktop\C# Projects\09.ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net6.0\09.LeftAndRightSum.pdb
+C:\Users\stoyan\Desktop\C# Projects\09.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\09.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\09.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\09.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\09.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.dll
+C:\Users\stoyan\Desktop\C# Projects\09.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\refint\09.LeftAndRightSum.dll
+C:\Users\stoyan\Desktop\C# Projects\09.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.pdb
+C:\Users\stoyan\Desktop\C# Projects\09.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\09.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\ref\09.LeftAndRightSum.dll
