@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\2\bin\Debug\net6.0\2. Even or Odd.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\2\bin\Debug\net6.0\2. Even or Odd.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\2\bin\Debug\net6.0\2. Even or Odd.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\2\bin\Debug\net6.0\2. Even or Odd.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\2\bin\Debug\net6.0\2. Even or Odd.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\2\obj\Debug\net6.0\2. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\2\obj\Debug\net6.0\2. Even or Odd.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\2\obj\Debug\net6.0\2. Even or Odd.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\2\obj\Debug\net6.0\2. Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\2\obj\Debug\net6.0\2. Even or Odd.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\2\obj\Debug\net6.0\refint\2. Even or Odd.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\2\obj\Debug\net6.0\2. Even or Odd.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\2\obj\Debug\net6.0\2. Even or Odd.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Conditional Statements - Lab\SimpleConditionalStatem\2\obj\Debug\net6.0\ref\2. Even or Odd.dll
