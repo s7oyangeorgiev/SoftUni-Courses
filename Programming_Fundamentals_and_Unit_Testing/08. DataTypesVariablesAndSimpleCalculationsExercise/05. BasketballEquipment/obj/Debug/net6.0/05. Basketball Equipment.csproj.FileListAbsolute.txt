@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\05\bin\Debug\net6.0\05. Basketball Equipment.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\05\bin\Debug\net6.0\05. Basketball Equipment.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\05\bin\Debug\net6.0\05. Basketball Equipment.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\05\bin\Debug\net6.0\05. Basketball Equipment.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\05\bin\Debug\net6.0\05. Basketball Equipment.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\05\obj\Debug\net6.0\05. Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\05\obj\Debug\net6.0\05. Basketball Equipment.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\05\obj\Debug\net6.0\05. Basketball Equipment.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\05\obj\Debug\net6.0\05. Basketball Equipment.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\05\obj\Debug\net6.0\05. Basketball Equipment.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\05\obj\Debug\net6.0\refint\05. Basketball Equipment.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\05\obj\Debug\net6.0\05. Basketball Equipment.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\05\obj\Debug\net6.0\05. Basketball Equipment.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\05\obj\Debug\net6.0\ref\05. Basketball Equipment.dll
