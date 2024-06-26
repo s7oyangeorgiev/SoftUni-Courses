@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\01.OldBooks\bin\Debug\net6.0\01.OldBooks.exe
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\01.OldBooks\bin\Debug\net6.0\01.OldBooks.deps.json
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\01.OldBooks\bin\Debug\net6.0\01.OldBooks.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\01.OldBooks\bin\Debug\net6.0\01.OldBooks.dll
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\01.OldBooks\bin\Debug\net6.0\01.OldBooks.pdb
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\01.OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\01.OldBooks.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\01.OldBooks.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\01.OldBooks.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\01.OldBooks.dll
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\refint\01.OldBooks.dll
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\01.OldBooks.pdb
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\01.OldBooks.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\12.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\ref\01.OldBooks.dll
