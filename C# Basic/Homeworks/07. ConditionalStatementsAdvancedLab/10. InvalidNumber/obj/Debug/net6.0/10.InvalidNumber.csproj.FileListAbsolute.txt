@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\10.InvalidNumber\bin\Debug\net6.0\10.InvalidNumber.exe
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\10.InvalidNumber\bin\Debug\net6.0\10.InvalidNumber.deps.json
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\10.InvalidNumber\bin\Debug\net6.0\10.InvalidNumber.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\10.InvalidNumber\bin\Debug\net6.0\10.InvalidNumber.dll
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\10.InvalidNumber\bin\Debug\net6.0\10.InvalidNumber.pdb
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\10.InvalidNumber\obj\Debug\net6.0\10.InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\10.InvalidNumber\obj\Debug\net6.0\10.InvalidNumber.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\10.InvalidNumber\obj\Debug\net6.0\10.InvalidNumber.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\10.InvalidNumber\obj\Debug\net6.0\10.InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\10.InvalidNumber\obj\Debug\net6.0\10.InvalidNumber.dll
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\10.InvalidNumber\obj\Debug\net6.0\refint\10.InvalidNumber.dll
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\10.InvalidNumber\obj\Debug\net6.0\10.InvalidNumber.pdb
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\10.InvalidNumber\obj\Debug\net6.0\10.InvalidNumber.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\07.ConditionalStatementsAdvancedLab\10.InvalidNumber\obj\Debug\net6.0\ref\10.InvalidNumber.dll
