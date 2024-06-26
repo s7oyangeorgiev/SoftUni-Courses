@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\08.ConditionalStatementsAdvancedExercise\02.SummerOutfit\bin\Debug\net6.0\02.SummerOutfit.exe
+C:\Users\stoyan\Desktop\C# Projects\08.ConditionalStatementsAdvancedExercise\02.SummerOutfit\bin\Debug\net6.0\02.SummerOutfit.deps.json
+C:\Users\stoyan\Desktop\C# Projects\08.ConditionalStatementsAdvancedExercise\02.SummerOutfit\bin\Debug\net6.0\02.SummerOutfit.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\08.ConditionalStatementsAdvancedExercise\02.SummerOutfit\bin\Debug\net6.0\02.SummerOutfit.dll
+C:\Users\stoyan\Desktop\C# Projects\08.ConditionalStatementsAdvancedExercise\02.SummerOutfit\bin\Debug\net6.0\02.SummerOutfit.pdb
+C:\Users\stoyan\Desktop\C# Projects\08.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\08.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\08.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\08.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\08.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.dll
+C:\Users\stoyan\Desktop\C# Projects\08.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\refint\02.SummerOutfit.dll
+C:\Users\stoyan\Desktop\C# Projects\08.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.pdb
+C:\Users\stoyan\Desktop\C# Projects\08.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\08.ConditionalStatementsAdvancedExercise\02.SummerOutfit\obj\Debug\net6.0\ref\02.SummerOutfit.dll
