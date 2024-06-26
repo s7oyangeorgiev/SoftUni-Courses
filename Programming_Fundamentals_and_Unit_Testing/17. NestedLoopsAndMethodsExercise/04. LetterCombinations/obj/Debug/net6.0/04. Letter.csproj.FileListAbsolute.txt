@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\04. Letter\bin\Debug\net6.0\04. Letter.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\04. Letter\bin\Debug\net6.0\04. Letter.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\04. Letter\bin\Debug\net6.0\04. Letter.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\04. Letter\bin\Debug\net6.0\04. Letter.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\04. Letter\bin\Debug\net6.0\04. Letter.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\04. Letter\obj\Debug\net6.0\04. Letter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\04. Letter\obj\Debug\net6.0\04. Letter.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\04. Letter\obj\Debug\net6.0\04. Letter.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\04. Letter\obj\Debug\net6.0\04. Letter.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\04. Letter\obj\Debug\net6.0\04. Letter.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\04. Letter\obj\Debug\net6.0\refint\04. Letter.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\04. Letter\obj\Debug\net6.0\04. Letter.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\04. Letter\obj\Debug\net6.0\04. Letter.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Nested and Methods - Exercise\Nested and Methods - Exercise\04. Letter\obj\Debug\net6.0\ref\04. Letter.dll
