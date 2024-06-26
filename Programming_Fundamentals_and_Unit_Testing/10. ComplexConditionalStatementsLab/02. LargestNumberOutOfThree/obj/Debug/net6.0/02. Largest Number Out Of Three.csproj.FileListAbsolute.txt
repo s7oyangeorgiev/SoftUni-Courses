@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\02\bin\Debug\net6.0\02. Largest Number Out Of Three.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\02\bin\Debug\net6.0\02. Largest Number Out Of Three.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\02\bin\Debug\net6.0\02. Largest Number Out Of Three.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\02\bin\Debug\net6.0\02. Largest Number Out Of Three.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\02\bin\Debug\net6.0\02. Largest Number Out Of Three.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\02\obj\Debug\net6.0\02. Largest Number Out Of Three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\02\obj\Debug\net6.0\02. Largest Number Out Of Three.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\02\obj\Debug\net6.0\02. Largest Number Out Of Three.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\02\obj\Debug\net6.0\02. Largest Number Out Of Three.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\02\obj\Debug\net6.0\02. Largest Number Out Of Three.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\02\obj\Debug\net6.0\refint\02. Largest Number Out Of Three.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\02\obj\Debug\net6.0\02. Largest Number Out Of Three.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\02\obj\Debug\net6.0\02. Largest Number Out Of Three.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Complex Conditional Statements - Lab\ComplexConditionalStat-Lab\02\obj\Debug\net6.0\ref\02. Largest Number Out Of Three.dll
