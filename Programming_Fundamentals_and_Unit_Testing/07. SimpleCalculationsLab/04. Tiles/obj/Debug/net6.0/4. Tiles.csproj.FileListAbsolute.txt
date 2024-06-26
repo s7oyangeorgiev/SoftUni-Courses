@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\4. Tiles\bin\Debug\net6.0\4. Tiles.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\4. Tiles\bin\Debug\net6.0\4. Tiles.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\4. Tiles\bin\Debug\net6.0\4. Tiles.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\4. Tiles\bin\Debug\net6.0\4. Tiles.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\4. Tiles\bin\Debug\net6.0\4. Tiles.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\4. Tiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\4. Tiles.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\4. Tiles.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\4. Tiles.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\4. Tiles.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\refint\4. Tiles.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\4. Tiles.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\4. Tiles.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Calculations - Lab\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\ref\4. Tiles.dll
