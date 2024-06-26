@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\02\bin\Debug\net6.0\02. Centuries to Minutes.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\02\bin\Debug\net6.0\02. Centuries to Minutes.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\02\bin\Debug\net6.0\02. Centuries to Minutes.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\02\bin\Debug\net6.0\02. Centuries to Minutes.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\02\bin\Debug\net6.0\02. Centuries to Minutes.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\02\obj\Debug\net6.0\02. Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\02\obj\Debug\net6.0\02. Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\02\obj\Debug\net6.0\02. Centuries to Minutes.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\02\obj\Debug\net6.0\02. Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\02\obj\Debug\net6.0\02. Centuries to Minutes.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\02\obj\Debug\net6.0\refint\02. Centuries to Minutes.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\02\obj\Debug\net6.0\02. Centuries to Minutes.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\02\obj\Debug\net6.0\02. Centuries to Minutes.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\02\obj\Debug\net6.0\ref\02. Centuries to Minutes.dll
