@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\06. Special Number\bin\Debug\net6.0\06. Special Number.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\06. Special Number\bin\Debug\net6.0\06. Special Number.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\06. Special Number\bin\Debug\net6.0\06. Special Number.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\06. Special Number\bin\Debug\net6.0\06. Special Number.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\06. Special Number\bin\Debug\net6.0\06. Special Number.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\06. Special Number\obj\Debug\net6.0\refint\06. Special Number.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\06. Special Number\obj\Debug\net6.0\ref\06. Special Number.dll
