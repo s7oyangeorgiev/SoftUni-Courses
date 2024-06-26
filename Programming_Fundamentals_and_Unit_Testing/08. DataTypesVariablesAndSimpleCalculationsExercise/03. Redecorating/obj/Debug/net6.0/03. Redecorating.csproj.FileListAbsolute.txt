@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\03\bin\Debug\net6.0\03. Redecorating.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\03\bin\Debug\net6.0\03. Redecorating.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\03\bin\Debug\net6.0\03. Redecorating.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\03\bin\Debug\net6.0\03. Redecorating.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\03\bin\Debug\net6.0\03. Redecorating.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\03\obj\Debug\net6.0\03. Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\03\obj\Debug\net6.0\03. Redecorating.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\03\obj\Debug\net6.0\03. Redecorating.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\03\obj\Debug\net6.0\03. Redecorating.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\03\obj\Debug\net6.0\03. Redecorating.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\03\obj\Debug\net6.0\refint\03. Redecorating.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\03\obj\Debug\net6.0\03. Redecorating.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\03\obj\Debug\net6.0\03. Redecorating.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Data,Variables,SimpleCalc - Exercise\Data,Variab,SimpCalc-Exercise\03\obj\Debug\net6.0\ref\03. Redecorating.dll
