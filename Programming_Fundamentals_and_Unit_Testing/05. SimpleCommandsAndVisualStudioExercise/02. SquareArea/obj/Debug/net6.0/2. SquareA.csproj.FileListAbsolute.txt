@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands and Visual Studio - Exercise\2. SquareA\obj\Debug\net6.0\2. SquareA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands and Visual Studio - Exercise\2. SquareA\obj\Debug\net6.0\2. SquareA.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands and Visual Studio - Exercise\2. SquareA\obj\Debug\net6.0\2. SquareA.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands and Visual Studio - Exercise\2. SquareA\obj\Debug\net6.0\2. SquareA.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands and Visual Studio - Exercise\2. SquareA\bin\Debug\net6.0\2. SquareA.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands and Visual Studio - Exercise\2. SquareA\bin\Debug\net6.0\2. SquareA.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands and Visual Studio - Exercise\2. SquareA\bin\Debug\net6.0\2. SquareA.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands and Visual Studio - Exercise\2. SquareA\bin\Debug\net6.0\2. SquareA.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands and Visual Studio - Exercise\2. SquareA\bin\Debug\net6.0\2. SquareA.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands and Visual Studio - Exercise\2. SquareA\obj\Debug\net6.0\2. SquareA.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands and Visual Studio - Exercise\2. SquareA\obj\Debug\net6.0\refint\2. SquareA.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands and Visual Studio - Exercise\2. SquareA\obj\Debug\net6.0\2. SquareA.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands and Visual Studio - Exercise\2. SquareA\obj\Debug\net6.0\2. SquareA.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Simple Commands and Visual Studio - Exercise\2. SquareA\obj\Debug\net6.0\ref\2. SquareA.dll
