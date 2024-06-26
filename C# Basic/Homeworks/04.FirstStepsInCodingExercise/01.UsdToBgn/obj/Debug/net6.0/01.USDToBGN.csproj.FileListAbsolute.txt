@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\01.USDToBGN\bin\Debug\net6.0\01.USDToBGN.exe
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\01.USDToBGN\bin\Debug\net6.0\01.USDToBGN.deps.json
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\01.USDToBGN\bin\Debug\net6.0\01.USDToBGN.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\01.USDToBGN\bin\Debug\net6.0\01.USDToBGN.dll
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\01.USDToBGN\bin\Debug\net6.0\01.USDToBGN.pdb
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\01.USDToBGN\obj\Debug\net6.0\01.USDToBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\01.USDToBGN\obj\Debug\net6.0\01.USDToBGN.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\01.USDToBGN\obj\Debug\net6.0\01.USDToBGN.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\01.USDToBGN\obj\Debug\net6.0\01.USDToBGN.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\01.USDToBGN\obj\Debug\net6.0\01.USDToBGN.dll
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\01.USDToBGN\obj\Debug\net6.0\refint\01.USDToBGN.dll
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\01.USDToBGN\obj\Debug\net6.0\01.USDToBGN.pdb
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\01.USDToBGN\obj\Debug\net6.0\01.USDToBGN.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\01.USDToBGN\obj\Debug\net6.0\ref\01.USDToBGN.dll
