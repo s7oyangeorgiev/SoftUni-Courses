@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net6.0\03.SumPrimeNonPrime.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net6.0\03.SumPrimeNonPrime.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net6.0\03.SumPrimeNonPrime.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net6.0\03.SumPrimeNonPrime.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net6.0\03.SumPrimeNonPrime.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\refint\03.SumPrimeNonPrime.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Домашни\14.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\ref\03.SumPrimeNonPrime.dll
