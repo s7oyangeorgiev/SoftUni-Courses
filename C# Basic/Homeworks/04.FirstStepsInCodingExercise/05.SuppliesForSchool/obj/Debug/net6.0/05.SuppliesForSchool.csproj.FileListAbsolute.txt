@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\05.SuppliesForSchool\bin\Debug\net6.0\05.SuppliesForSchool.exe
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\05.SuppliesForSchool\bin\Debug\net6.0\05.SuppliesForSchool.deps.json
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\05.SuppliesForSchool\bin\Debug\net6.0\05.SuppliesForSchool.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\05.SuppliesForSchool\bin\Debug\net6.0\05.SuppliesForSchool.dll
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\05.SuppliesForSchool\bin\Debug\net6.0\05.SuppliesForSchool.pdb
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\05.SuppliesForSchool\obj\Debug\net6.0\05.SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\05.SuppliesForSchool\obj\Debug\net6.0\05.SuppliesForSchool.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\05.SuppliesForSchool\obj\Debug\net6.0\05.SuppliesForSchool.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\05.SuppliesForSchool\obj\Debug\net6.0\05.SuppliesForSchool.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\05.SuppliesForSchool\obj\Debug\net6.0\05.SuppliesForSchool.dll
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\05.SuppliesForSchool\obj\Debug\net6.0\refint\05.SuppliesForSchool.dll
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\05.SuppliesForSchool\obj\Debug\net6.0\05.SuppliesForSchool.pdb
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\05.SuppliesForSchool\obj\Debug\net6.0\05.SuppliesForSchool.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\04.FirstStepsInCodingExercise\05.SuppliesForSchool\obj\Debug\net6.0\ref\05.SuppliesForSchool.dll
