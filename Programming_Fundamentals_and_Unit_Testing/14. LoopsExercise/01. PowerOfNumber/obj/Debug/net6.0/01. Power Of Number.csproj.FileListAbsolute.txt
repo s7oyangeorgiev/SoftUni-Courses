@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\01. Power Of Number\bin\Debug\net6.0\01. Power Of Number.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\01. Power Of Number\bin\Debug\net6.0\01. Power Of Number.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\01. Power Of Number\bin\Debug\net6.0\01. Power Of Number.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\01. Power Of Number\bin\Debug\net6.0\01. Power Of Number.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\01. Power Of Number\bin\Debug\net6.0\01. Power Of Number.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\refint\01. Power Of Number.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\Loops - Exercise\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\ref\01. Power Of Number.dll
