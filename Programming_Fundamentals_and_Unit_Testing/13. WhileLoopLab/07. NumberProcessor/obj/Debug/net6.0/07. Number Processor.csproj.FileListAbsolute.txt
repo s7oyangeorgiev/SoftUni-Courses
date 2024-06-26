@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\07. Number Processor\bin\Debug\net6.0\07. Number Processor.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\07. Number Processor\bin\Debug\net6.0\07. Number Processor.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\07. Number Processor\bin\Debug\net6.0\07. Number Processor.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\07. Number Processor\bin\Debug\net6.0\07. Number Processor.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\07. Number Processor\bin\Debug\net6.0\07. Number Processor.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\07. Number Processor\obj\Debug\net6.0\07. Number Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\07. Number Processor\obj\Debug\net6.0\07. Number Processor.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\07. Number Processor\obj\Debug\net6.0\07. Number Processor.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\07. Number Processor\obj\Debug\net6.0\07. Number Processor.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\07. Number Processor\obj\Debug\net6.0\07. Number Processor.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\07. Number Processor\obj\Debug\net6.0\refint\07. Number Processor.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\07. Number Processor\obj\Debug\net6.0\07. Number Processor.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\07. Number Processor\obj\Debug\net6.0\07. Number Processor.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\Домашна Работа\While Loop - Lab\While Loop - Lab\07. Number Processor\obj\Debug\net6.0\ref\07. Number Processor.dll
