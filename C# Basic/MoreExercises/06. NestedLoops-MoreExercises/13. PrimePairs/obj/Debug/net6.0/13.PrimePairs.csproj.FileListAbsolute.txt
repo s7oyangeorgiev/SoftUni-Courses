@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\13.PrimePairs\bin\Debug\net6.0\13.PrimePairs.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\13.PrimePairs\bin\Debug\net6.0\13.PrimePairs.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\13.PrimePairs\bin\Debug\net6.0\13.PrimePairs.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\13.PrimePairs\bin\Debug\net6.0\13.PrimePairs.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\13.PrimePairs\bin\Debug\net6.0\13.PrimePairs.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\13.PrimePairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\13.PrimePairs.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\13.PrimePairs.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\13.PrimePairs.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\13.PrimePairs.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\refint\13.PrimePairs.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\13.PrimePairs.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\13.PrimePairs.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\ref\13.PrimePairs.dll
