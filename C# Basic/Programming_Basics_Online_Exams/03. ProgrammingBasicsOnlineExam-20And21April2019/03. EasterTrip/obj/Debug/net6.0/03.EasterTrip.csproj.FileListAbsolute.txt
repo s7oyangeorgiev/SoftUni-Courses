@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\03.EasterTrip\bin\Debug\net6.0\03.EasterTrip.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\03.EasterTrip\bin\Debug\net6.0\03.EasterTrip.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\03.EasterTrip\bin\Debug\net6.0\03.EasterTrip.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\03.EasterTrip\bin\Debug\net6.0\03.EasterTrip.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\03.EasterTrip\bin\Debug\net6.0\03.EasterTrip.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\03.EasterTrip\obj\Debug\net6.0\03.EasterTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\03.EasterTrip\obj\Debug\net6.0\03.EasterTrip.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\03.EasterTrip\obj\Debug\net6.0\03.EasterTrip.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\03.EasterTrip\obj\Debug\net6.0\03.EasterTrip.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\03.EasterTrip\obj\Debug\net6.0\03.EasterTrip.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\03.EasterTrip\obj\Debug\net6.0\refint\03.EasterTrip.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\03.EasterTrip\obj\Debug\net6.0\03.EasterTrip.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\03.EasterTrip\obj\Debug\net6.0\03.EasterTrip.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\03.EasterTrip\obj\Debug\net6.0\ref\03.EasterTrip.dll
