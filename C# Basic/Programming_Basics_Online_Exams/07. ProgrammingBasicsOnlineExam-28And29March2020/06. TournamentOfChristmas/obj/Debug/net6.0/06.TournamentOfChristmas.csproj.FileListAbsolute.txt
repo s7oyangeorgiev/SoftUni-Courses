@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\07. Programming Basics Online Exam - 28 And 29 March 2020\06. Tour\bin\Debug\net6.0\06.TournamentOfChristmas.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\07. Programming Basics Online Exam - 28 And 29 March 2020\06. Tour\bin\Debug\net6.0\06.TournamentOfChristmas.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\07. Programming Basics Online Exam - 28 And 29 March 2020\06. Tour\bin\Debug\net6.0\06.TournamentOfChristmas.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\07. Programming Basics Online Exam - 28 And 29 March 2020\06. Tour\bin\Debug\net6.0\06.TournamentOfChristmas.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\07. Programming Basics Online Exam - 28 And 29 March 2020\06. Tour\bin\Debug\net6.0\06.TournamentOfChristmas.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\07. Programming Basics Online Exam - 28 And 29 March 2020\06. Tour\obj\Debug\net6.0\06.TournamentOfChristmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\07. Programming Basics Online Exam - 28 And 29 March 2020\06. Tour\obj\Debug\net6.0\06.TournamentOfChristmas.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\07. Programming Basics Online Exam - 28 And 29 March 2020\06. Tour\obj\Debug\net6.0\06.TournamentOfChristmas.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\07. Programming Basics Online Exam - 28 And 29 March 2020\06. Tour\obj\Debug\net6.0\06.TournamentOfChristmas.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\07. Programming Basics Online Exam - 28 And 29 March 2020\06. Tour\obj\Debug\net6.0\06.TournamentOfChristmas.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\07. Programming Basics Online Exam - 28 And 29 March 2020\06. Tour\obj\Debug\net6.0\refint\06.TournamentOfChristmas.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\07. Programming Basics Online Exam - 28 And 29 March 2020\06. Tour\obj\Debug\net6.0\06.TournamentOfChristmas.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\07. Programming Basics Online Exam - 28 And 29 March 2020\06. Tour\obj\Debug\net6.0\06.TournamentOfChristmas.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\07. Programming Basics Online Exam - 28 And 29 March 2020\06. Tour\obj\Debug\net6.0\ref\06.TournamentOfChristmas.dll
