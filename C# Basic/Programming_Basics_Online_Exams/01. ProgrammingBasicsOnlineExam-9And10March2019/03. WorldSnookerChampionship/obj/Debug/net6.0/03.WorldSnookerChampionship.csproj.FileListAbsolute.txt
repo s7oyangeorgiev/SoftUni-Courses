@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.WorldSnookerChampionship\bin\Debug\net6.0\03.WorldSnookerChampionship.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.WorldSnookerChampionship\bin\Debug\net6.0\03.WorldSnookerChampionship.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.WorldSnookerChampionship\bin\Debug\net6.0\03.WorldSnookerChampionship.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.WorldSnookerChampionship\bin\Debug\net6.0\03.WorldSnookerChampionship.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.WorldSnookerChampionship\bin\Debug\net6.0\03.WorldSnookerChampionship.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\03.WorldSnookerChampionship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\03.WorldSnookerChampionship.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\03.WorldSnookerChampionship.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\03.WorldSnookerChampionship.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\03.WorldSnookerChampionship.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\refint\03.WorldSnookerChampionship.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\03.WorldSnookerChampionship.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\03.WorldSnookerChampionship.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\ref\03.WorldSnookerChampionship.dll

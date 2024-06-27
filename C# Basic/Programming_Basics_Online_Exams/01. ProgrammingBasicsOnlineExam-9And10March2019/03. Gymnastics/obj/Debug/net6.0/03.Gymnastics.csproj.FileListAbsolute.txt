@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.Gymnastics\bin\Debug\net6.0\03.Gymnastics.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.Gymnastics\bin\Debug\net6.0\03.Gymnastics.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.Gymnastics\bin\Debug\net6.0\03.Gymnastics.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.Gymnastics\bin\Debug\net6.0\03.Gymnastics.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.Gymnastics\bin\Debug\net6.0\03.Gymnastics.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\refint\03.Gymnastics.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\ref\03.Gymnastics.dll
