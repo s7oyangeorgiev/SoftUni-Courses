@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EstrCom\obj\Debug\net6.0\06.EasterCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EstrCom\obj\Debug\net6.0\06.EasterCompetition.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EstrCom\obj\Debug\net6.0\06.EasterCompetition.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EstrCom\obj\Debug\net6.0\06.EasterCompetition.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EstrCom\bin\Debug\net6.0\06.EasterCompetition.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EstrCom\bin\Debug\net6.0\06.EasterCompetition.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EstrCom\bin\Debug\net6.0\06.EasterCompetition.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EstrCom\bin\Debug\net6.0\06.EasterCompetition.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EstrCom\bin\Debug\net6.0\06.EasterCompetition.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EstrCom\obj\Debug\net6.0\06.EasterCompetition.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EstrCom\obj\Debug\net6.0\refint\06.EasterCompetition.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EstrCom\obj\Debug\net6.0\06.EasterCompetition.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EstrCom\obj\Debug\net6.0\06.EasterCompetition.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EstrCom\obj\Debug\net6.0\ref\06.EasterCompetition.dll

@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EDec\bin\Debug\net6.0\06.EasterDecoration.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EDec\bin\Debug\net6.0\06.EasterDecoration.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EDec\bin\Debug\net6.0\06.EasterDecoration.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EDec\bin\Debug\net6.0\06.EasterDecoration.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EDec\bin\Debug\net6.0\06.EasterDecoration.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EDec\obj\Debug\net6.0\06.EasterDecoration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EDec\obj\Debug\net6.0\06.EasterDecoration.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EDec\obj\Debug\net6.0\06.EasterDecoration.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EDec\obj\Debug\net6.0\06.EasterDecoration.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EDec\obj\Debug\net6.0\06.EasterDecoration.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EDec\obj\Debug\net6.0\refint\06.EasterDecoration.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EDec\obj\Debug\net6.0\06.EasterDecoration.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EDec\obj\Debug\net6.0\06.EasterDecoration.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\03 Programming Basics Online Exam - 20 And 21 April 2019\06.EDec\obj\Debug\net6.0\ref\06.EasterDecoration.dll
