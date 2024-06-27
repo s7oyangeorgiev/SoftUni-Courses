@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\02.MountainRun\bin\Debug\net6.0\02.MountainRun.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\02.MountainRun\bin\Debug\net6.0\02.MountainRun.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\02.MountainRun\bin\Debug\net6.0\02.MountainRun.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\02.MountainRun\bin\Debug\net6.0\02.MountainRun.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\02.MountainRun\bin\Debug\net6.0\02.MountainRun.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\02.MountainRun\obj\Debug\net6.0\02.MountainRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\02.MountainRun\obj\Debug\net6.0\02.MountainRun.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\02.MountainRun\obj\Debug\net6.0\02.MountainRun.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\02.MountainRun\obj\Debug\net6.0\02.MountainRun.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\02.MountainRun\obj\Debug\net6.0\02.MountainRun.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\02.MountainRun\obj\Debug\net6.0\refint\02.MountainRun.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\02.MountainRun\obj\Debug\net6.0\02.MountainRun.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\02.MountainRun\obj\Debug\net6.0\02.MountainRun.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\02.MountainRun\obj\Debug\net6.0\ref\02.MountainRun.dll
