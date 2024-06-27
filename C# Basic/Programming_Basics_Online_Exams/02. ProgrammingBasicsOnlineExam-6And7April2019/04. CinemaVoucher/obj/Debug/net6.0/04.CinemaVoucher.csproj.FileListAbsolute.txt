@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\02, Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\bin\Debug\net6.0\04.CinemaVoucher.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\02, Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\bin\Debug\net6.0\04.CinemaVoucher.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\02, Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\bin\Debug\net6.0\04.CinemaVoucher.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\02, Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\bin\Debug\net6.0\04.CinemaVoucher.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\02, Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\bin\Debug\net6.0\04.CinemaVoucher.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\02, Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\net6.0\04.CinemaVoucher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\02, Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\net6.0\04.CinemaVoucher.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\02, Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\net6.0\04.CinemaVoucher.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\02, Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\net6.0\04.CinemaVoucher.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\02, Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\net6.0\04.CinemaVoucher.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\02, Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\net6.0\refint\04.CinemaVoucher.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\02, Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\net6.0\04.CinemaVoucher.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\02, Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\net6.0\04.CinemaVoucher.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\02, Programming Basics Online Exam - 6 and 7 April 2019\04.CinemaVoucher\obj\Debug\net6.0\ref\04.CinemaVoucher.dll

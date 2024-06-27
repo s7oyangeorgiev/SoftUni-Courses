@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6and7April2019\06.CinemaTickets\bin\Debug\net6.0\06.CinemaTickets.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6and7April2019\06.CinemaTickets\bin\Debug\net6.0\06.CinemaTickets.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6and7April2019\06.CinemaTickets\bin\Debug\net6.0\06.CinemaTickets.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6and7April2019\06.CinemaTickets\bin\Debug\net6.0\06.CinemaTickets.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6and7April2019\06.CinemaTickets\bin\Debug\net6.0\06.CinemaTickets.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6and7April2019\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6and7April2019\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6and7April2019\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6and7April2019\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6and7April2019\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6and7April2019\06.CinemaTickets\obj\Debug\net6.0\refint\06.CinemaTickets.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6and7April2019\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6and7April2019\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6and7April2019\06.CinemaTickets\obj\Debug\net6.0\ref\06.CinemaTickets.dll
