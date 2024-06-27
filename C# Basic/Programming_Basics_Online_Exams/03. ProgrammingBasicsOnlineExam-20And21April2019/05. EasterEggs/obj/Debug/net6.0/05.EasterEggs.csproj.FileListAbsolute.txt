@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\05.EasterEggs\bin\Debug\net6.0\05.EasterEggs.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\05.EasterEggs\bin\Debug\net6.0\05.EasterEggs.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\05.EasterEggs\bin\Debug\net6.0\05.EasterEggs.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\05.EasterEggs\bin\Debug\net6.0\05.EasterEggs.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\05.EasterEggs\bin\Debug\net6.0\05.EasterEggs.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\05.EasterEggs\obj\Debug\net6.0\05.EasterEggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\05.EasterEggs\obj\Debug\net6.0\05.EasterEggs.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\05.EasterEggs\obj\Debug\net6.0\05.EasterEggs.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\05.EasterEggs\obj\Debug\net6.0\05.EasterEggs.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\05.EasterEggs\obj\Debug\net6.0\05.EasterEggs.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\05.EasterEggs\obj\Debug\net6.0\refint\05.EasterEggs.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\05.EasterEggs\obj\Debug\net6.0\05.EasterEggs.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\05.EasterEggs\obj\Debug\net6.0\05.EasterEggs.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\05.EasterEggs\obj\Debug\net6.0\ref\05.EasterEggs.dll
