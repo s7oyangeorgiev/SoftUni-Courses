@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\net6.0\05.GameOfIntervals.exe
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\net6.0\05.GameOfIntervals.deps.json
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\net6.0\05.GameOfIntervals.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\net6.0\05.GameOfIntervals.dll
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\net6.0\05.GameOfIntervals.pdb
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net6.0\05.GameOfIntervals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net6.0\05.GameOfIntervals.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net6.0\05.GameOfIntervals.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net6.0\05.GameOfIntervals.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net6.0\05.GameOfIntervals.dll
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net6.0\refint\05.GameOfIntervals.dll
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net6.0\05.GameOfIntervals.pdb
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net6.0\05.GameOfIntervals.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net6.0\ref\05.GameOfIntervals.dll
