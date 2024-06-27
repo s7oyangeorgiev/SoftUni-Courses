@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\06.Fishland\bin\Debug\net6.0\06.Fishland.exe
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\06.Fishland\bin\Debug\net6.0\06.Fishland.deps.json
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\06.Fishland\bin\Debug\net6.0\06.Fishland.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\06.Fishland\bin\Debug\net6.0\06.Fishland.dll
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\06.Fishland\bin\Debug\net6.0\06.Fishland.pdb
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\06.Fishland\obj\Debug\net6.0\06.Fishland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\06.Fishland\obj\Debug\net6.0\06.Fishland.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\06.Fishland\obj\Debug\net6.0\06.Fishland.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\06.Fishland\obj\Debug\net6.0\06.Fishland.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\06.Fishland\obj\Debug\net6.0\06.Fishland.dll
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\06.Fishland\obj\Debug\net6.0\refint\06.Fishland.dll
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\06.Fishland\obj\Debug\net6.0\06.Fishland.pdb
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\06.Fishland\obj\Debug\net6.0\06.Fishland.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\06.Fishland\obj\Debug\net6.0\ref\06.Fishland.dll
