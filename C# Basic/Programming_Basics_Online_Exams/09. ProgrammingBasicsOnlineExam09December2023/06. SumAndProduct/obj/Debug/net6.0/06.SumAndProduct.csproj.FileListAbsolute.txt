@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\06.SumAndProduct\bin\Debug\net6.0\06.SumAndProduct.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\06.SumAndProduct\bin\Debug\net6.0\06.SumAndProduct.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\06.SumAndProduct\bin\Debug\net6.0\06.SumAndProduct.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\06.SumAndProduct\bin\Debug\net6.0\06.SumAndProduct.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\06.SumAndProduct\bin\Debug\net6.0\06.SumAndProduct.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\06.SumAndProduct\obj\Debug\net6.0\06.SumAndProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\06.SumAndProduct\obj\Debug\net6.0\06.SumAndProduct.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\06.SumAndProduct\obj\Debug\net6.0\06.SumAndProduct.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\06.SumAndProduct\obj\Debug\net6.0\06.SumAndProduct.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\06.SumAndProduct\obj\Debug\net6.0\06.SumAndProduct.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\06.SumAndProduct\obj\Debug\net6.0\refint\06.SumAndProduct.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\06.SumAndProduct\obj\Debug\net6.0\06.SumAndProduct.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\06.SumAndProduct\obj\Debug\net6.0\06.SumAndProduct.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\06.SumAndProduct\obj\Debug\net6.0\ref\06.SumAndProduct.dll
