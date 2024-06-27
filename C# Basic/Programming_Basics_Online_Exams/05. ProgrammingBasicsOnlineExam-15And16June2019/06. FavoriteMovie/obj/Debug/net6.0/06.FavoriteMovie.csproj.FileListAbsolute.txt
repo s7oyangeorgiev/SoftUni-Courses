@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\05. Programming Basics Online Exam - 15 And 16 June 2019\06. Favori\bin\Debug\net6.0\06.FavoriteMovie.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\05. Programming Basics Online Exam - 15 And 16 June 2019\06. Favori\bin\Debug\net6.0\06.FavoriteMovie.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\05. Programming Basics Online Exam - 15 And 16 June 2019\06. Favori\bin\Debug\net6.0\06.FavoriteMovie.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\05. Programming Basics Online Exam - 15 And 16 June 2019\06. Favori\bin\Debug\net6.0\06.FavoriteMovie.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\05. Programming Basics Online Exam - 15 And 16 June 2019\06. Favori\bin\Debug\net6.0\06.FavoriteMovie.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\05. Programming Basics Online Exam - 15 And 16 June 2019\06. Favori\obj\Debug\net6.0\06.FavoriteMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\05. Programming Basics Online Exam - 15 And 16 June 2019\06. Favori\obj\Debug\net6.0\06.FavoriteMovie.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\05. Programming Basics Online Exam - 15 And 16 June 2019\06. Favori\obj\Debug\net6.0\06.FavoriteMovie.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\05. Programming Basics Online Exam - 15 And 16 June 2019\06. Favori\obj\Debug\net6.0\06.FavoriteMovie.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\05. Programming Basics Online Exam - 15 And 16 June 2019\06. Favori\obj\Debug\net6.0\06.FavoriteMovie.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\05. Programming Basics Online Exam - 15 And 16 June 2019\06. Favori\obj\Debug\net6.0\refint\06.FavoriteMovie.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\05. Programming Basics Online Exam - 15 And 16 June 2019\06. Favori\obj\Debug\net6.0\06.FavoriteMovie.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\05. Programming Basics Online Exam - 15 And 16 June 2019\06. Favori\obj\Debug\net6.0\06.FavoriteMovie.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\05. Programming Basics Online Exam - 15 And 16 June 2019\06. Favori\obj\Debug\net6.0\ref\06.FavoriteMovie.dll
