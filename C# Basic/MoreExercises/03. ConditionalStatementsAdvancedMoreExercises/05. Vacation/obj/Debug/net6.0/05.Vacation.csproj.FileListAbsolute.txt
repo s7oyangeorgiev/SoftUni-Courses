@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\bin\Debug\net6.0\05.Vacation.exe
+C:\Users\stoyan\Desktop\C# Projects\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\bin\Debug\net6.0\05.Vacation.deps.json
+C:\Users\stoyan\Desktop\C# Projects\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\bin\Debug\net6.0\05.Vacation.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\bin\Debug\net6.0\05.Vacation.dll
+C:\Users\stoyan\Desktop\C# Projects\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\bin\Debug\net6.0\05.Vacation.pdb
+C:\Users\stoyan\Desktop\C# Projects\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\05.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\05.Vacation.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\05.Vacation.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\05.Vacation.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\05.Vacation.dll
+C:\Users\stoyan\Desktop\C# Projects\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\refint\05.Vacation.dll
+C:\Users\stoyan\Desktop\C# Projects\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\05.Vacation.pdb
+C:\Users\stoyan\Desktop\C# Projects\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\05.Vacation.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\03.ConditionalStatementsAdvancedMoreExercises\05.Vacation\obj\Debug\net6.0\ref\05.Vacation.dll
