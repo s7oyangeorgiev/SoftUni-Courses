@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\net6.0\03.Harvest.exe
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\net6.0\03.Harvest.deps.json
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\net6.0\03.Harvest.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\net6.0\03.Harvest.dll
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\net6.0\03.Harvest.pdb
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net6.0\03.Harvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net6.0\03.Harvest.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net6.0\03.Harvest.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net6.0\03.Harvest.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net6.0\03.Harvest.dll
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net6.0\refint\03.Harvest.dll
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net6.0\03.Harvest.pdb
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net6.0\03.Harvest.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net6.0\ref\03.Harvest.dll
