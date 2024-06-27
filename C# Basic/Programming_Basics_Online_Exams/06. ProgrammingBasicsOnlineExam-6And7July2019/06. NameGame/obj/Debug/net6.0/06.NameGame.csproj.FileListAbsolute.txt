@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\06. Programming Basics Online Exam - 6 And 7 July 2019\06.NameGame\bin\Debug\net6.0\06.NameGame.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\06. Programming Basics Online Exam - 6 And 7 July 2019\06.NameGame\bin\Debug\net6.0\06.NameGame.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\06. Programming Basics Online Exam - 6 And 7 July 2019\06.NameGame\bin\Debug\net6.0\06.NameGame.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\06. Programming Basics Online Exam - 6 And 7 July 2019\06.NameGame\bin\Debug\net6.0\06.NameGame.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\06. Programming Basics Online Exam - 6 And 7 July 2019\06.NameGame\bin\Debug\net6.0\06.NameGame.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\06. Programming Basics Online Exam - 6 And 7 July 2019\06.NameGame\obj\Debug\net6.0\06.NameGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\06. Programming Basics Online Exam - 6 And 7 July 2019\06.NameGame\obj\Debug\net6.0\06.NameGame.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\06. Programming Basics Online Exam - 6 And 7 July 2019\06.NameGame\obj\Debug\net6.0\06.NameGame.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\06. Programming Basics Online Exam - 6 And 7 July 2019\06.NameGame\obj\Debug\net6.0\06.NameGame.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\06. Programming Basics Online Exam - 6 And 7 July 2019\06.NameGame\obj\Debug\net6.0\06.NameGame.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\06. Programming Basics Online Exam - 6 And 7 July 2019\06.NameGame\obj\Debug\net6.0\refint\06.NameGame.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\06. Programming Basics Online Exam - 6 And 7 July 2019\06.NameGame\obj\Debug\net6.0\06.NameGame.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\06. Programming Basics Online Exam - 6 And 7 July 2019\06.NameGame\obj\Debug\net6.0\06.NameGame.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\06. Programming Basics Online Exam - 6 And 7 July 2019\06.NameGame\obj\Debug\net6.0\ref\06.NameGame.dll

@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\05.PCGameShop\bin\Debug\net6.0\05.PCGameShop.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\05.PCGameShop\bin\Debug\net6.0\05.PCGameShop.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\05.PCGameShop\bin\Debug\net6.0\05.PCGameShop.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\05.PCGameShop\bin\Debug\net6.0\05.PCGameShop.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\05.PCGameShop\bin\Debug\net6.0\05.PCGameShop.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\05.PCGameShop\obj\Debug\net6.0\refint\05.PCGameShop.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\05.PCGameShop\obj\Debug\net6.0\ref\05.PCGameShop.dll
