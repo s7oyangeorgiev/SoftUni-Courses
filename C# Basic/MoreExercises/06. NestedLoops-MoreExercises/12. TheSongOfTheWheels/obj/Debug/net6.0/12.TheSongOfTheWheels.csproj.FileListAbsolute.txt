@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\12.TheSongOfTheWheels\bin\Debug\net6.0\12.TheSongOfTheWheels.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\12.TheSongOfTheWheels\bin\Debug\net6.0\12.TheSongOfTheWheels.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\12.TheSongOfTheWheels\bin\Debug\net6.0\12.TheSongOfTheWheels.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\12.TheSongOfTheWheels\bin\Debug\net6.0\12.TheSongOfTheWheels.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\12.TheSongOfTheWheels\bin\Debug\net6.0\12.TheSongOfTheWheels.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\12.TheSongOfTheWheels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\12.TheSongOfTheWheels.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\12.TheSongOfTheWheels.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\12.TheSongOfTheWheels.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\12.TheSongOfTheWheels.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\refint\12.TheSongOfTheWheels.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\12.TheSongOfTheWheels.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\12.TheSongOfTheWheels.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\ref\12.TheSongOfTheWheels.dll

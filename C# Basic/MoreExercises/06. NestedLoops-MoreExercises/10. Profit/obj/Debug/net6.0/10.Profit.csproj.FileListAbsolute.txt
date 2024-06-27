@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\10.Profit\bin\Debug\net6.0\10.Profit.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\10.Profit\bin\Debug\net6.0\10.Profit.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\10.Profit\bin\Debug\net6.0\10.Profit.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\10.Profit\bin\Debug\net6.0\10.Profit.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\10.Profit\bin\Debug\net6.0\10.Profit.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\10.Profit\obj\Debug\net6.0\10.Profit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\10.Profit\obj\Debug\net6.0\10.Profit.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\10.Profit\obj\Debug\net6.0\10.Profit.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\10.Profit\obj\Debug\net6.0\10.Profit.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\10.Profit\obj\Debug\net6.0\10.Profit.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\10.Profit\obj\Debug\net6.0\refint\10.Profit.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\10.Profit\obj\Debug\net6.0\10.Profit.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\10.Profit\obj\Debug\net6.0\10.Profit.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\10.Profit\obj\Debug\net6.0\ref\10.Profit.dll
