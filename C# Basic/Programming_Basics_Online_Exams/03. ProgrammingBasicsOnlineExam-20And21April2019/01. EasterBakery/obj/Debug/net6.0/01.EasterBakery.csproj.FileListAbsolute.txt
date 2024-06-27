@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterBakery\bin\Debug\net6.0\01.EasterBakery.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterBakery\bin\Debug\net6.0\01.EasterBakery.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterBakery\bin\Debug\net6.0\01.EasterBakery.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterBakery\bin\Debug\net6.0\01.EasterBakery.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterBakery\bin\Debug\net6.0\01.EasterBakery.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterBakery\obj\Debug\net6.0\refint\01.EasterBakery.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterBakery\obj\Debug\net6.0\ref\01.EasterBakery.dll
