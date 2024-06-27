@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\04.VegetableMarket\bin\Debug\net6.0\04.VegetableMarket.exe
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\04.VegetableMarket\bin\Debug\net6.0\04.VegetableMarket.deps.json
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\04.VegetableMarket\bin\Debug\net6.0\04.VegetableMarket.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\04.VegetableMarket\bin\Debug\net6.0\04.VegetableMarket.dll
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\04.VegetableMarket\bin\Debug\net6.0\04.VegetableMarket.pdb
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\04.VegetableMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\04.VegetableMarket.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\04.VegetableMarket.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\04.VegetableMarket.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\04.VegetableMarket.dll
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\refint\04.VegetableMarket.dll
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\04.VegetableMarket.pdb
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\04.VegetableMarket.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\04.VegetableMarket\obj\Debug\net6.0\ref\04.VegetableMarket.dll
