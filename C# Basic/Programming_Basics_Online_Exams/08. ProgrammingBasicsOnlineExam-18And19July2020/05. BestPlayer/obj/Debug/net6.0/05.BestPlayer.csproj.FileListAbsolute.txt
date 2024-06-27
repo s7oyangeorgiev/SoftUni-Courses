@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-18And19July2020\05.BestPlayer\bin\Debug\net6.0\05.BestPlayer.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-18And19July2020\05.BestPlayer\bin\Debug\net6.0\05.BestPlayer.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-18And19July2020\05.BestPlayer\bin\Debug\net6.0\05.BestPlayer.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-18And19July2020\05.BestPlayer\bin\Debug\net6.0\05.BestPlayer.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-18And19July2020\05.BestPlayer\bin\Debug\net6.0\05.BestPlayer.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-18And19July2020\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-18And19July2020\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-18And19July2020\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-18And19July2020\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-18And19July2020\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-18And19July2020\05.BestPlayer\obj\Debug\net6.0\refint\05.BestPlayer.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-18And19July2020\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-18And19July2020\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-18And19July2020\05.BestPlayer\obj\Debug\net6.0\ref\05.BestPlayer.dll
