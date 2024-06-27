@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\02.MaidenParty\bin\Debug\net6.0\02.MaidenParty.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\02.MaidenParty\bin\Debug\net6.0\02.MaidenParty.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\02.MaidenParty\bin\Debug\net6.0\02.MaidenParty.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\02.MaidenParty\bin\Debug\net6.0\02.MaidenParty.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\02.MaidenParty\bin\Debug\net6.0\02.MaidenParty.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\02.MaidenParty\obj\Debug\net6.0\refint\02.MaidenParty.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\02.MaidenParty\obj\Debug\net6.0\ref\02.MaidenParty.dll

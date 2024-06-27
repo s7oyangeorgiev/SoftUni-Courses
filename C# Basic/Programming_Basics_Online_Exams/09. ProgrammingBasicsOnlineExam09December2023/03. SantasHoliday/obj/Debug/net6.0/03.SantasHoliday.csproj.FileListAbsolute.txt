@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\03.SantasHoliday\bin\Debug\net6.0\03.SantasHoliday.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\03.SantasHoliday\bin\Debug\net6.0\03.SantasHoliday.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\03.SantasHoliday\bin\Debug\net6.0\03.SantasHoliday.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\03.SantasHoliday\bin\Debug\net6.0\03.SantasHoliday.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\03.SantasHoliday\bin\Debug\net6.0\03.SantasHoliday.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\03.SantasHoliday\obj\Debug\net6.0\03.SantasHoliday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\03.SantasHoliday\obj\Debug\net6.0\03.SantasHoliday.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\03.SantasHoliday\obj\Debug\net6.0\03.SantasHoliday.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\03.SantasHoliday\obj\Debug\net6.0\03.SantasHoliday.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\03.SantasHoliday\obj\Debug\net6.0\03.SantasHoliday.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\03.SantasHoliday\obj\Debug\net6.0\refint\03.SantasHoliday.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\03.SantasHoliday\obj\Debug\net6.0\03.SantasHoliday.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\03.SantasHoliday\obj\Debug\net6.0\03.SantasHoliday.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\09.Exam09.12.2023\03.SantasHoliday\obj\Debug\net6.0\ref\03.SantasHoliday.dll
