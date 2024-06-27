@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\01.FruitMarket\bin\Debug\net6.0\01.FruitMarket.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\01.FruitMarket\bin\Debug\net6.0\01.FruitMarket.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\01.FruitMarket\bin\Debug\net6.0\01.FruitMarket.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\01.FruitMarket\bin\Debug\net6.0\01.FruitMarket.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\01.FruitMarket\bin\Debug\net6.0\01.FruitMarket.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\01.FruitMarket\obj\Debug\net6.0\refint\01.FruitMarket.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\01.FruitMarket\obj\Debug\net6.0\01.FruitMarket.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\01.FruitMarket\obj\Debug\net6.0\ref\01.FruitMarket.dll

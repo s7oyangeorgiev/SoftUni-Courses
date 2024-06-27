@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\03.MobileOperator\bin\Debug\net6.0\03.MobileOperator.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\03.MobileOperator\bin\Debug\net6.0\03.MobileOperator.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\03.MobileOperator\bin\Debug\net6.0\03.MobileOperator.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\03.MobileOperator\bin\Debug\net6.0\03.MobileOperator.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\03.MobileOperator\bin\Debug\net6.0\03.MobileOperator.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\03.MobileOperator\obj\Debug\net6.0\03.MobileOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\03.MobileOperator\obj\Debug\net6.0\03.MobileOperator.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\03.MobileOperator\obj\Debug\net6.0\03.MobileOperator.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\03.MobileOperator\obj\Debug\net6.0\03.MobileOperator.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\03.MobileOperator\obj\Debug\net6.0\03.MobileOperator.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\03.MobileOperator\obj\Debug\net6.0\refint\03.MobileOperator.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\03.MobileOperator\obj\Debug\net6.0\03.MobileOperator.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\03.MobileOperator\obj\Debug\net6.0\03.MobileOperator.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\03.MobileOperator\obj\Debug\net6.0\ref\03.MobileOperator.dll
