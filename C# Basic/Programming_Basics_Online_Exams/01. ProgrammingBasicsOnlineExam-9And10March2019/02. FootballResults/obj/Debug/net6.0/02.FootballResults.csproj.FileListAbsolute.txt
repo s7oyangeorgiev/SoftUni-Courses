@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\02.FootballResults\bin\Debug\net6.0\02.FootballResults.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\02.FootballResults\bin\Debug\net6.0\02.FootballResults.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\02.FootballResults\bin\Debug\net6.0\02.FootballResults.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\02.FootballResults\bin\Debug\net6.0\02.FootballResults.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\02.FootballResults\bin\Debug\net6.0\02.FootballResults.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\02.FootballResults\obj\Debug\net6.0\02.FootballResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\02.FootballResults\obj\Debug\net6.0\02.FootballResults.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\02.FootballResults\obj\Debug\net6.0\02.FootballResults.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\02.FootballResults\obj\Debug\net6.0\02.FootballResults.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\02.FootballResults\obj\Debug\net6.0\02.FootballResults.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\02.FootballResults\obj\Debug\net6.0\refint\02.FootballResults.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\02.FootballResults\obj\Debug\net6.0\02.FootballResults.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\02.FootballResults\obj\Debug\net6.0\02.FootballResults.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\02.FootballResults\obj\Debug\net6.0\ref\02.FootballResults.dll
