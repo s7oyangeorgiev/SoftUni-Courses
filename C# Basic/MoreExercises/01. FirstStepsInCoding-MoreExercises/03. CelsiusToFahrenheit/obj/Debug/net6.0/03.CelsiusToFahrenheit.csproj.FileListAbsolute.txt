@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\03.CelsiusToFahrenheit\bin\Debug\net6.0\03.CelsiusToFahrenheit.exe
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\03.CelsiusToFahrenheit\bin\Debug\net6.0\03.CelsiusToFahrenheit.deps.json
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\03.CelsiusToFahrenheit\bin\Debug\net6.0\03.CelsiusToFahrenheit.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\03.CelsiusToFahrenheit\bin\Debug\net6.0\03.CelsiusToFahrenheit.dll
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\03.CelsiusToFahrenheit\bin\Debug\net6.0\03.CelsiusToFahrenheit.pdb
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\03.CelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\03.CelsiusToFahrenheit.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\03.CelsiusToFahrenheit.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\03.CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\03.CelsiusToFahrenheit.dll
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\refint\03.CelsiusToFahrenheit.dll
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\03.CelsiusToFahrenheit.pdb
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\03.CelsiusToFahrenheit.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\03.CelsiusToFahrenheit\obj\Debug\net6.0\ref\03.CelsiusToFahrenheit.dll
