@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.CoffeeMachine\bin\Debug\net6.0\03.CoffeeMachine.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.CoffeeMachine\bin\Debug\net6.0\03.CoffeeMachine.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.CoffeeMachine\bin\Debug\net6.0\03.CoffeeMachine.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.CoffeeMachine\bin\Debug\net6.0\03.CoffeeMachine.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.CoffeeMachine\bin\Debug\net6.0\03.CoffeeMachine.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.CoffeeMachine\obj\Debug\net6.0\03.CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.CoffeeMachine\obj\Debug\net6.0\03.CoffeeMachine.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.CoffeeMachine\obj\Debug\net6.0\03.CoffeeMachine.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.CoffeeMachine\obj\Debug\net6.0\03.CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.CoffeeMachine\obj\Debug\net6.0\03.CoffeeMachine.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.CoffeeMachine\obj\Debug\net6.0\refint\03.CoffeeMachine.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.CoffeeMachine\obj\Debug\net6.0\03.CoffeeMachine.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.CoffeeMachine\obj\Debug\net6.0\03.CoffeeMachine.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.CoffeeMachine\obj\Debug\net6.0\ref\03.CoffeeMachine.dll

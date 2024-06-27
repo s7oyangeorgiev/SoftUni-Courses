@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\02.FamilyTrip\bin\Debug\net6.0\02.FamilyTrip.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\02.FamilyTrip\bin\Debug\net6.0\02.FamilyTrip.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\02.FamilyTrip\bin\Debug\net6.0\02.FamilyTrip.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\02.FamilyTrip\bin\Debug\net6.0\02.FamilyTrip.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\02.FamilyTrip\bin\Debug\net6.0\02.FamilyTrip.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\02.FamilyTrip\obj\Debug\net6.0\refint\02.FamilyTrip.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\02.FamilyTrip\obj\Debug\net6.0\ref\02.FamilyTrip.dll
