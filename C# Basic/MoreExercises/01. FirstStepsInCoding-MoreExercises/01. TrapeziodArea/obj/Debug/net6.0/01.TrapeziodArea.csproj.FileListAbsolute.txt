@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\01.TrapeziodArea\bin\Debug\net6.0\01.TrapeziodArea.exe
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\01.TrapeziodArea\bin\Debug\net6.0\01.TrapeziodArea.deps.json
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\01.TrapeziodArea\bin\Debug\net6.0\01.TrapeziodArea.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\01.TrapeziodArea\bin\Debug\net6.0\01.TrapeziodArea.dll
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\01.TrapeziodArea\bin\Debug\net6.0\01.TrapeziodArea.pdb
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\01.TrapeziodArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\01.TrapeziodArea.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\01.TrapeziodArea.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\01.TrapeziodArea.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\01.TrapeziodArea.dll
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\refint\01.TrapeziodArea.dll
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\01.TrapeziodArea.pdb
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\01.TrapeziodArea.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\01.TrapeziodArea\obj\Debug\net6.0\ref\01.TrapeziodArea.dll
