@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\08.CircleAreaAndPerimeter\bin\Debug\net6.0\08.CircleAreaAndPerimeter.exe
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\08.CircleAreaAndPerimeter\bin\Debug\net6.0\08.CircleAreaAndPerimeter.deps.json
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\08.CircleAreaAndPerimeter\bin\Debug\net6.0\08.CircleAreaAndPerimeter.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\08.CircleAreaAndPerimeter\bin\Debug\net6.0\08.CircleAreaAndPerimeter.dll
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\08.CircleAreaAndPerimeter\bin\Debug\net6.0\08.CircleAreaAndPerimeter.pdb
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\08.CircleAreaAndPerimeter\obj\Debug\net6.0\08.CircleAreaAndPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\08.CircleAreaAndPerimeter\obj\Debug\net6.0\08.CircleAreaAndPerimeter.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\08.CircleAreaAndPerimeter\obj\Debug\net6.0\08.CircleAreaAndPerimeter.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\08.CircleAreaAndPerimeter\obj\Debug\net6.0\08.CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\08.CircleAreaAndPerimeter\obj\Debug\net6.0\08.CircleAreaAndPerimeter.dll
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\08.CircleAreaAndPerimeter\obj\Debug\net6.0\refint\08.CircleAreaAndPerimeter.dll
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\08.CircleAreaAndPerimeter\obj\Debug\net6.0\08.CircleAreaAndPerimeter.pdb
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\08.CircleAreaAndPerimeter\obj\Debug\net6.0\08.CircleAreaAndPerimeter.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\01,First Steps in CodingMoreExercises\08.CircleAreaAndPerimeter\obj\Debug\net6.0\ref\08.CircleAreaAndPerimeter.dll
