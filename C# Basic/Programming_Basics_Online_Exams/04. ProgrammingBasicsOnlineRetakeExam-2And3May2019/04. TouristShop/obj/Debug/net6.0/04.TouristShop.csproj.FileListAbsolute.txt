@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\04.TouristShop\bin\Debug\net6.0\04.TouristShop.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\04.TouristShop\bin\Debug\net6.0\04.TouristShop.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\04.TouristShop\bin\Debug\net6.0\04.TouristShop.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\04.TouristShop\bin\Debug\net6.0\04.TouristShop.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\04.TouristShop\bin\Debug\net6.0\04.TouristShop.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\04.TouristShop\obj\Debug\net6.0\04.TouristShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\04.TouristShop\obj\Debug\net6.0\04.TouristShop.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\04.TouristShop\obj\Debug\net6.0\04.TouristShop.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\04.TouristShop\obj\Debug\net6.0\04.TouristShop.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\04.TouristShop\obj\Debug\net6.0\04.TouristShop.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\04.TouristShop\obj\Debug\net6.0\refint\04.TouristShop.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\04.TouristShop\obj\Debug\net6.0\04.TouristShop.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\04.TouristShop\obj\Debug\net6.0\04.TouristShop.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\04.TouristShop\obj\Debug\net6.0\ref\04.TouristShop.dll

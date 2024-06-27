@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\05.DivisionWithoutRemainder\bin\Debug\net6.0\05.DivisionWithoutRemainder.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\05.DivisionWithoutRemainder\bin\Debug\net6.0\05.DivisionWithoutRemainder.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\05.DivisionWithoutRemainder\bin\Debug\net6.0\05.DivisionWithoutRemainder.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\05.DivisionWithoutRemainder\bin\Debug\net6.0\05.DivisionWithoutRemainder.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\05.DivisionWithoutRemainder\bin\Debug\net6.0\05.DivisionWithoutRemainder.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\05.DivisionWithoutRemainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\05.DivisionWithoutRemainder.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\05.DivisionWithoutRemainder.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\05.DivisionWithoutRemainder.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\05.DivisionWithoutRemainder.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\refint\05.DivisionWithoutRemainder.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\05.DivisionWithoutRemainder.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\05.DivisionWithoutRemainder.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineRetakeExam-2And3May2019\05.DivisionWithoutRemainder\obj\Debug\net6.0\ref\05.DivisionWithoutRemainder.dll

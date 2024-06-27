@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\04. Programming Basics Online Retake Exam - 2 And 3 May 2019\06\bin\Debug\net6.0\06.VetParking.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\04. Programming Basics Online Retake Exam - 2 And 3 May 2019\06\bin\Debug\net6.0\06.VetParking.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\04. Programming Basics Online Retake Exam - 2 And 3 May 2019\06\bin\Debug\net6.0\06.VetParking.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\04. Programming Basics Online Retake Exam - 2 And 3 May 2019\06\bin\Debug\net6.0\06.VetParking.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\04. Programming Basics Online Retake Exam - 2 And 3 May 2019\06\bin\Debug\net6.0\06.VetParking.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\04. Programming Basics Online Retake Exam - 2 And 3 May 2019\06\obj\Debug\net6.0\06.VetParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\04. Programming Basics Online Retake Exam - 2 And 3 May 2019\06\obj\Debug\net6.0\06.VetParking.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\04. Programming Basics Online Retake Exam - 2 And 3 May 2019\06\obj\Debug\net6.0\06.VetParking.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\04. Programming Basics Online Retake Exam - 2 And 3 May 2019\06\obj\Debug\net6.0\06.VetParking.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\04. Programming Basics Online Retake Exam - 2 And 3 May 2019\06\obj\Debug\net6.0\06.VetParking.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\04. Programming Basics Online Retake Exam - 2 And 3 May 2019\06\obj\Debug\net6.0\refint\06.VetParking.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\04. Programming Basics Online Retake Exam - 2 And 3 May 2019\06\obj\Debug\net6.0\06.VetParking.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\04. Programming Basics Online Retake Exam - 2 And 3 May 2019\06\obj\Debug\net6.0\06.VetParking.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\04. Programming Basics Online Retake Exam - 2 And 3 May 2019\06\obj\Debug\net6.0\ref\06.VetParking.dll
