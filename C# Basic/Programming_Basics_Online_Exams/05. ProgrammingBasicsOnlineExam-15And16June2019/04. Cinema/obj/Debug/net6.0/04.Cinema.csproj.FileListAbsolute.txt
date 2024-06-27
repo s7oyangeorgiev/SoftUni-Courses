@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-15And16June2019\04.Cinema\bin\Debug\net6.0\04.Cinema.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-15And16June2019\04.Cinema\bin\Debug\net6.0\04.Cinema.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-15And16June2019\04.Cinema\bin\Debug\net6.0\04.Cinema.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-15And16June2019\04.Cinema\bin\Debug\net6.0\04.Cinema.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-15And16June2019\04.Cinema\bin\Debug\net6.0\04.Cinema.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-15And16June2019\04.Cinema\obj\Debug\net6.0\04.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-15And16June2019\04.Cinema\obj\Debug\net6.0\04.Cinema.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-15And16June2019\04.Cinema\obj\Debug\net6.0\04.Cinema.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-15And16June2019\04.Cinema\obj\Debug\net6.0\04.Cinema.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-15And16June2019\04.Cinema\obj\Debug\net6.0\04.Cinema.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-15And16June2019\04.Cinema\obj\Debug\net6.0\refint\04.Cinema.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-15And16June2019\04.Cinema\obj\Debug\net6.0\04.Cinema.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-15And16June2019\04.Cinema\obj\Debug\net6.0\04.Cinema.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-15And16June2019\04.Cinema\obj\Debug\net6.0\ref\04.Cinema.dll
