@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\01.ChangeBureau\bin\Debug\net6.0\01.ChangeBureau.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\01.ChangeBureau\bin\Debug\net6.0\01.ChangeBureau.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\01.ChangeBureau\bin\Debug\net6.0\01.ChangeBureau.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\01.ChangeBureau\bin\Debug\net6.0\01.ChangeBureau.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\01.ChangeBureau\bin\Debug\net6.0\01.ChangeBureau.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\01.ChangeBureau\obj\Debug\net6.0\01.ChangeBureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\01.ChangeBureau\obj\Debug\net6.0\01.ChangeBureau.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\01.ChangeBureau\obj\Debug\net6.0\01.ChangeBureau.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\01.ChangeBureau\obj\Debug\net6.0\01.ChangeBureau.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\01.ChangeBureau\obj\Debug\net6.0\01.ChangeBureau.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\01.ChangeBureau\obj\Debug\net6.0\refint\01.ChangeBureau.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\01.ChangeBureau\obj\Debug\net6.0\01.ChangeBureau.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\01.ChangeBureau\obj\Debug\net6.0\01.ChangeBureau.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-28And29March2020\01.ChangeBureau\obj\Debug\net6.0\ref\01.ChangeBureau.dll
