@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\02.Hospital\bin\Debug\net6.0\02.Hospital.exe
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\02.Hospital\bin\Debug\net6.0\02.Hospital.deps.json
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\02.Hospital\bin\Debug\net6.0\02.Hospital.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\02.Hospital\bin\Debug\net6.0\02.Hospital.dll
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\02.Hospital\bin\Debug\net6.0\02.Hospital.pdb
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\02.Hospital\obj\Debug\net6.0\02.Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\02.Hospital\obj\Debug\net6.0\02.Hospital.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\02.Hospital\obj\Debug\net6.0\02.Hospital.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\02.Hospital\obj\Debug\net6.0\02.Hospital.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\02.Hospital\obj\Debug\net6.0\02.Hospital.dll
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\02.Hospital\obj\Debug\net6.0\refint\02.Hospital.dll
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\02.Hospital\obj\Debug\net6.0\02.Hospital.pdb
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\02.Hospital\obj\Debug\net6.0\02.Hospital.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\04.For-Loop-MoreExercises\02.Hospital\obj\Debug\net6.0\ref\02.Hospital.dll
