@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\06.FlowerShop\bin\Debug\net6.0\06.FlowerShop.exe
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\06.FlowerShop\bin\Debug\net6.0\06.FlowerShop.deps.json
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\06.FlowerShop\bin\Debug\net6.0\06.FlowerShop.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\06.FlowerShop\bin\Debug\net6.0\06.FlowerShop.dll
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\06.FlowerShop\bin\Debug\net6.0\06.FlowerShop.pdb
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\06.FlowerShop\obj\Debug\net6.0\06.FlowerShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\06.FlowerShop\obj\Debug\net6.0\06.FlowerShop.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\06.FlowerShop\obj\Debug\net6.0\06.FlowerShop.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\06.FlowerShop\obj\Debug\net6.0\06.FlowerShop.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\06.FlowerShop\obj\Debug\net6.0\06.FlowerShop.dll
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\06.FlowerShop\obj\Debug\net6.0\refint\06.FlowerShop.dll
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\06.FlowerShop\obj\Debug\net6.0\06.FlowerShop.pdb
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\06.FlowerShop\obj\Debug\net6.0\06.FlowerShop.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\06.FlowerShop\obj\Debug\net6.0\ref\06.FlowerShop.dll
