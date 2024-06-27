@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\net6.0\01.PipesInPool.exe
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\net6.0\01.PipesInPool.deps.json
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\net6.0\01.PipesInPool.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\net6.0\01.PipesInPool.dll
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\net6.0\01.PipesInPool.pdb
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.dll
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\refint\01.PipesInPool.dll
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.pdb
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\ref\01.PipesInPool.dll
