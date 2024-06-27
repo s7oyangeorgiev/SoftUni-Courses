@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\09.SumOfTwoNumbers\bin\Debug\net6.0\09.SumOfTwoNumbers.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\09.SumOfTwoNumbers\bin\Debug\net6.0\09.SumOfTwoNumbers.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\09.SumOfTwoNumbers\bin\Debug\net6.0\09.SumOfTwoNumbers.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\09.SumOfTwoNumbers\bin\Debug\net6.0\09.SumOfTwoNumbers.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\09.SumOfTwoNumbers\bin\Debug\net6.0\09.SumOfTwoNumbers.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\09.SumOfTwoNumbers\obj\Debug\net6.0\09.SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\09.SumOfTwoNumbers\obj\Debug\net6.0\09.SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\09.SumOfTwoNumbers\obj\Debug\net6.0\09.SumOfTwoNumbers.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\09.SumOfTwoNumbers\obj\Debug\net6.0\09.SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\09.SumOfTwoNumbers\obj\Debug\net6.0\09.SumOfTwoNumbers.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\09.SumOfTwoNumbers\obj\Debug\net6.0\refint\09.SumOfTwoNumbers.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\09.SumOfTwoNumbers\obj\Debug\net6.0\09.SumOfTwoNumbers.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\09.SumOfTwoNumbers\obj\Debug\net6.0\09.SumOfTwoNumbers.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\09.SumOfTwoNumbers\obj\Debug\net6.0\ref\09.SumOfTwoNumbers.dll
