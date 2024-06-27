@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.Darts\bin\Debug\net6.0\04.Darts.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.Darts\bin\Debug\net6.0\04.Darts.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.Darts\bin\Debug\net6.0\04.Darts.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.Darts\bin\Debug\net6.0\04.Darts.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.Darts\bin\Debug\net6.0\04.Darts.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.Darts\obj\Debug\net6.0\04.Darts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.Darts\obj\Debug\net6.0\04.Darts.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.Darts\obj\Debug\net6.0\04.Darts.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.Darts\obj\Debug\net6.0\04.Darts.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.Darts\obj\Debug\net6.0\04.Darts.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.Darts\obj\Debug\net6.0\refint\04.Darts.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.Darts\obj\Debug\net6.0\04.Darts.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.Darts\obj\Debug\net6.0\04.Darts.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.Darts\obj\Debug\net6.0\ref\04.Darts.dll

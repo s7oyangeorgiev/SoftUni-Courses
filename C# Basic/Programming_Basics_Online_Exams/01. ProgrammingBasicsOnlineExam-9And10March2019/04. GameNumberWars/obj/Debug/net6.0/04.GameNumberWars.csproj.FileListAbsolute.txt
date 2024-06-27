@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.GameNumberWars\bin\Debug\net6.0\04.GameNumberWars.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.GameNumberWars\bin\Debug\net6.0\04.GameNumberWars.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.GameNumberWars\bin\Debug\net6.0\04.GameNumberWars.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.GameNumberWars\bin\Debug\net6.0\04.GameNumberWars.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.GameNumberWars\bin\Debug\net6.0\04.GameNumberWars.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.GameNumberWars\obj\Debug\net6.0\refint\04.GameNumberWars.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-9And10March2019\04.GameNumberWars\obj\Debug\net6.0\ref\04.GameNumberWars.dll
