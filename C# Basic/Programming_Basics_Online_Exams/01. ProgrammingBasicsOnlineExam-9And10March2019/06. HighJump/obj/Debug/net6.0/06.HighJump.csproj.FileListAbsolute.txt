@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.HighJump\bin\Debug\net6.0\06.HighJump.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.HighJump\bin\Debug\net6.0\06.HighJump.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.HighJump\bin\Debug\net6.0\06.HighJump.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.HighJump\bin\Debug\net6.0\06.HighJump.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.HighJump\bin\Debug\net6.0\06.HighJump.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.HighJump\obj\Debug\net6.0\06.HighJump.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.HighJump\obj\Debug\net6.0\06.HighJump.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.HighJump\obj\Debug\net6.0\06.HighJump.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.HighJump\obj\Debug\net6.0\06.HighJump.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.HighJump\obj\Debug\net6.0\06.HighJump.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.HighJump\obj\Debug\net6.0\refint\06.HighJump.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.HighJump\obj\Debug\net6.0\06.HighJump.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.HighJump\obj\Debug\net6.0\06.HighJump.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.HighJump\obj\Debug\net6.0\ref\06.HighJump.dll

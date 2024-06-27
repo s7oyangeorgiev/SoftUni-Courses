@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.BasketballTournam\bin\Debug\net6.0\06.BasketballTournam.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.BasketballTournam\bin\Debug\net6.0\06.BasketballTournam.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.BasketballTournam\bin\Debug\net6.0\06.BasketballTournam.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.BasketballTournam\bin\Debug\net6.0\06.BasketballTournam.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.BasketballTournam\bin\Debug\net6.0\06.BasketballTournam.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.BasketballTournam\obj\Debug\net6.0\06.BasketballTournam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.BasketballTournam\obj\Debug\net6.0\06.BasketballTournam.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.BasketballTournam\obj\Debug\net6.0\06.BasketballTournam.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.BasketballTournam\obj\Debug\net6.0\06.BasketballTournam.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.BasketballTournam\obj\Debug\net6.0\06.BasketballTournam.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.BasketballTournam\obj\Debug\net6.0\refint\06.BasketballTournam.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.BasketballTournam\obj\Debug\net6.0\06.BasketballTournam.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.BasketballTournam\obj\Debug\net6.0\06.BasketballTournam.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Примерни изпити\01.ProgrammingBasicsOnlineExam-9And10March2019\06.BasketballTournam\obj\Debug\net6.0\ref\06.BasketballTournam.dll
