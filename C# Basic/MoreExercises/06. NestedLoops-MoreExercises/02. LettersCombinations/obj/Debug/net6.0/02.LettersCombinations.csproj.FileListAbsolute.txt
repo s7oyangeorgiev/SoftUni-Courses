@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net6.0\02.LettersCombinations.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net6.0\02.LettersCombinations.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net6.0\02.LettersCombinations.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net6.0\02.LettersCombinations.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net6.0\02.LettersCombinations.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\02.LettersCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\02.LettersCombinations.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\02.LettersCombinations.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\02.LettersCombinations.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\02.LettersCombinations.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\refint\02.LettersCombinations.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\02.LettersCombinations.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\02.LettersCombinations.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\ref\02.LettersCombinations.dll

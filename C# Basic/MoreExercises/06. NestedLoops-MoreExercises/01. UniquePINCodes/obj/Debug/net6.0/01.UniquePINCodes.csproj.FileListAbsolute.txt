@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\01.UniquePINCodes\bin\Debug\net6.0\01.UniquePINCodes.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\01.UniquePINCodes\bin\Debug\net6.0\01.UniquePINCodes.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\01.UniquePINCodes\bin\Debug\net6.0\01.UniquePINCodes.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\01.UniquePINCodes\bin\Debug\net6.0\01.UniquePINCodes.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\01.UniquePINCodes\bin\Debug\net6.0\01.UniquePINCodes.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net6.0\01.UniquePINCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net6.0\01.UniquePINCodes.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net6.0\01.UniquePINCodes.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net6.0\01.UniquePINCodes.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net6.0\01.UniquePINCodes.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net6.0\refint\01.UniquePINCodes.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net6.0\01.UniquePINCodes.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net6.0\01.UniquePINCodes.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net6.0\ref\01.UniquePINCodes.dll
