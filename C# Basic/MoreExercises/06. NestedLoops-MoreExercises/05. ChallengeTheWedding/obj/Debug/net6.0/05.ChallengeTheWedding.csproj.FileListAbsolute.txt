@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\05.ChallengeTheWedding\obj\Debug\net6.0\05.ChallengeTheWedding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\05.ChallengeTheWedding\obj\Debug\net6.0\05.ChallengeTheWedding.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\05.ChallengeTheWedding\obj\Debug\net6.0\05.ChallengeTheWedding.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\05.ChallengeTheWedding\obj\Debug\net6.0\05.ChallengeTheWedding.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\05.ChallengeTheWedding\bin\Debug\net6.0\05.ChallengeTheWedding.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\05.ChallengeTheWedding\bin\Debug\net6.0\05.ChallengeTheWedding.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\05.ChallengeTheWedding\bin\Debug\net6.0\05.ChallengeTheWedding.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\05.ChallengeTheWedding\bin\Debug\net6.0\05.ChallengeTheWedding.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\05.ChallengeTheWedding\bin\Debug\net6.0\05.ChallengeTheWedding.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\05.ChallengeTheWedding\obj\Debug\net6.0\05.ChallengeTheWedding.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\05.ChallengeTheWedding\obj\Debug\net6.0\refint\05.ChallengeTheWedding.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\05.ChallengeTheWedding\obj\Debug\net6.0\05.ChallengeTheWedding.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\05.ChallengeTheWedding\obj\Debug\net6.0\05.ChallengeTheWedding.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\05.ChallengeTheWedding\obj\Debug\net6.0\ref\05.ChallengeTheWedding.dll

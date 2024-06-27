@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\06.WeddingSeats\bin\Debug\net6.0\06.WeddingSeats.exe
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\06.WeddingSeats\bin\Debug\net6.0\06.WeddingSeats.deps.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\06.WeddingSeats\bin\Debug\net6.0\06.WeddingSeats.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\06.WeddingSeats\bin\Debug\net6.0\06.WeddingSeats.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\06.WeddingSeats\bin\Debug\net6.0\06.WeddingSeats.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net6.0\06.WeddingSeats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net6.0\06.WeddingSeats.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net6.0\06.WeddingSeats.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net6.0\06.WeddingSeats.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net6.0\06.WeddingSeats.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net6.0\refint\06.WeddingSeats.dll
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net6.0\06.WeddingSeats.pdb
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net6.0\06.WeddingSeats.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Basic\C# Basic - Програми\Допълнителни задачи\06.NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net6.0\ref\06.WeddingSeats.dll
