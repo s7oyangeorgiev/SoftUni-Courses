@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.TravelAgency\bin\Debug\net6.0\03.TravelAgency.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.TravelAgency\bin\Debug\net6.0\03.TravelAgency.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.TravelAgency\bin\Debug\net6.0\03.TravelAgency.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.TravelAgency\bin\Debug\net6.0\03.TravelAgency.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.TravelAgency\bin\Debug\net6.0\03.TravelAgency.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.TravelAgency\obj\Debug\net6.0\03.TravelAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.TravelAgency\obj\Debug\net6.0\03.TravelAgency.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.TravelAgency\obj\Debug\net6.0\03.TravelAgency.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.TravelAgency\obj\Debug\net6.0\03.TravelAgency.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.TravelAgency\obj\Debug\net6.0\03.TravelAgency.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.TravelAgency\obj\Debug\net6.0\refint\03.TravelAgency.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.TravelAgency\obj\Debug\net6.0\03.TravelAgency.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.TravelAgency\obj\Debug\net6.0\03.TravelAgency.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\03.TravelAgency\obj\Debug\net6.0\ref\03.TravelAgency.dll

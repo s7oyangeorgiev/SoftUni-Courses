@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\04.Renovation\bin\Debug\net6.0\04.Renovation.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\04.Renovation\bin\Debug\net6.0\04.Renovation.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\04.Renovation\bin\Debug\net6.0\04.Renovation.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\04.Renovation\bin\Debug\net6.0\04.Renovation.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\04.Renovation\bin\Debug\net6.0\04.Renovation.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\04.Renovation\obj\Debug\net6.0\04.Renovation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\04.Renovation\obj\Debug\net6.0\04.Renovation.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\04.Renovation\obj\Debug\net6.0\04.Renovation.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\04.Renovation\obj\Debug\net6.0\04.Renovation.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\04.Renovation\obj\Debug\net6.0\04.Renovation.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\04.Renovation\obj\Debug\net6.0\refint\04.Renovation.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\04.Renovation\obj\Debug\net6.0\04.Renovation.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\04.Renovation\obj\Debug\net6.0\04.Renovation.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-6And7July2019\04.Renovation\obj\Debug\net6.0\ref\04.Renovation.dll
