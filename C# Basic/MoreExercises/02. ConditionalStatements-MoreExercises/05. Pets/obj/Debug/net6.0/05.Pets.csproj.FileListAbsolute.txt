@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\05.Pets\bin\Debug\net6.0\05.Pets.exe
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\05.Pets\bin\Debug\net6.0\05.Pets.deps.json
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\05.Pets\bin\Debug\net6.0\05.Pets.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\05.Pets\bin\Debug\net6.0\05.Pets.dll
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\05.Pets\bin\Debug\net6.0\05.Pets.pdb
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.dll
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\refint\05.Pets.dll
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.pdb
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\02.ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\ref\05.Pets.dll
