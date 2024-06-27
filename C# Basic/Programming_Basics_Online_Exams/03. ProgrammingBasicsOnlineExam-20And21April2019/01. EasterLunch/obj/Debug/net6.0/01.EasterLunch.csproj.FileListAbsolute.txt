@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterLunch\obj\Debug\net6.0\01.EasterLunch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterLunch\obj\Debug\net6.0\01.EasterLunch.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterLunch\obj\Debug\net6.0\01.EasterLunch.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterLunch\obj\Debug\net6.0\01.EasterLunch.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterLunch\bin\Debug\net6.0\01.EasterLunch.exe
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterLunch\bin\Debug\net6.0\01.EasterLunch.deps.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterLunch\bin\Debug\net6.0\01.EasterLunch.runtimeconfig.json
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterLunch\bin\Debug\net6.0\01.EasterLunch.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterLunch\bin\Debug\net6.0\01.EasterLunch.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterLunch\obj\Debug\net6.0\01.EasterLunch.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterLunch\obj\Debug\net6.0\refint\01.EasterLunch.dll
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterLunch\obj\Debug\net6.0\01.EasterLunch.pdb
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterLunch\obj\Debug\net6.0\01.EasterLunch.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\C# Projects\ProgrammingBasicsOnlineExam-20And21April2019\01.EasterLunch\obj\Debug\net6.0\ref\01.EasterLunch.dll
