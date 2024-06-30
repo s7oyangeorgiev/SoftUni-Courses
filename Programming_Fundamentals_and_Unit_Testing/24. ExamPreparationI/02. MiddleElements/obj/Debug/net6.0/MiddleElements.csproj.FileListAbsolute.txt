@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\24. Exam Preparation\ExamPreparation\MiddleElements\bin\Debug\net6.0\MiddleElements.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\24. Exam Preparation\ExamPreparation\MiddleElements\bin\Debug\net6.0\MiddleElements.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\24. Exam Preparation\ExamPreparation\MiddleElements\bin\Debug\net6.0\MiddleElements.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\24. Exam Preparation\ExamPreparation\MiddleElements\bin\Debug\net6.0\MiddleElements.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\24. Exam Preparation\ExamPreparation\MiddleElements\bin\Debug\net6.0\MiddleElements.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\24. Exam Preparation\ExamPreparation\MiddleElements\obj\Debug\net6.0\MiddleElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\24. Exam Preparation\ExamPreparation\MiddleElements\obj\Debug\net6.0\MiddleElements.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\24. Exam Preparation\ExamPreparation\MiddleElements\obj\Debug\net6.0\MiddleElements.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\24. Exam Preparation\ExamPreparation\MiddleElements\obj\Debug\net6.0\MiddleElements.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\24. Exam Preparation\ExamPreparation\MiddleElements\obj\Debug\net6.0\MiddleElements.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\24. Exam Preparation\ExamPreparation\MiddleElements\obj\Debug\net6.0\refint\MiddleElements.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\24. Exam Preparation\ExamPreparation\MiddleElements\obj\Debug\net6.0\MiddleElements.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\24. Exam Preparation\ExamPreparation\MiddleElements\obj\Debug\net6.0\MiddleElements.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\24. Exam Preparation\ExamPreparation\MiddleElements\obj\Debug\net6.0\ref\MiddleElements.dll
