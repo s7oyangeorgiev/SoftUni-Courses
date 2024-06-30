@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\26. Exam Preparation III\Exam Preparation III\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\26. Exam Preparation III\Exam Preparation III\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\26. Exam Preparation III\Exam Preparation III\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\26. Exam Preparation III\Exam Preparation III\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\26. Exam Preparation III\Exam Preparation III\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\26. Exam Preparation III\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\26. Exam Preparation III\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\26. Exam Preparation III\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\26. Exam Preparation III\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\26. Exam Preparation III\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\26. Exam Preparation III\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\refint\01. English Name of Each Digit.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\26. Exam Preparation III\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\26. Exam Preparation III\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\26. Exam Preparation III\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\ref\01. English Name of Each Digit.dll
