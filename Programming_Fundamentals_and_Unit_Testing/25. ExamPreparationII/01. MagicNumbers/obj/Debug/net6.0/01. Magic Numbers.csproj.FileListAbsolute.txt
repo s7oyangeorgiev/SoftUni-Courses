@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\01. Magic Numbers\bin\Debug\net6.0\01. Magic Numbers.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\01. Magic Numbers\bin\Debug\net6.0\01. Magic Numbers.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\01. Magic Numbers\bin\Debug\net6.0\01. Magic Numbers.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\01. Magic Numbers\bin\Debug\net6.0\01. Magic Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\01. Magic Numbers\bin\Debug\net6.0\01. Magic Numbers.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\refint\01. Magic Numbers.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\ref\01. Magic Numbers.dll

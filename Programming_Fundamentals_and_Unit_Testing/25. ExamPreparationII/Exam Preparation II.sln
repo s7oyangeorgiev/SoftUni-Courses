@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Magic Numbers", "01. Magic Numbers\01. Magic Numbers.csproj", "{DCDAC028-AFF0-4EEE-B839-EA225153129A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. MinMaxValues", "02. MinMaxValues\02. MinMaxValues.csproj", "{7DAB092C-D1AB-415D-9A9F-16250EFF0DA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCDAC028-AFF0-4EEE-B839-EA225153129A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDAC028-AFF0-4EEE-B839-EA225153129A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDAC028-AFF0-4EEE-B839-EA225153129A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDAC028-AFF0-4EEE-B839-EA225153129A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DAB092C-D1AB-415D-9A9F-16250EFF0DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DAB092C-D1AB-415D-9A9F-16250EFF0DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DAB092C-D1AB-415D-9A9F-16250EFF0DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DAB092C-D1AB-415D-9A9F-16250EFF0DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CDD3D94-A1C4-4EF0-8725-63D8D01042CC}
+	EndGlobalSection
+EndGlobal

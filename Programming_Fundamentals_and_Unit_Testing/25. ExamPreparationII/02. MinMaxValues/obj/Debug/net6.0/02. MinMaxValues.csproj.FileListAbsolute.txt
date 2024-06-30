@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\02. MinMaxValues\bin\Debug\net6.0\02. MinMaxValues.exe
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\02. MinMaxValues\bin\Debug\net6.0\02. MinMaxValues.deps.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\02. MinMaxValues\bin\Debug\net6.0\02. MinMaxValues.runtimeconfig.json
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\02. MinMaxValues\bin\Debug\net6.0\02. MinMaxValues.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\02. MinMaxValues\bin\Debug\net6.0\02. MinMaxValues.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\02. MinMaxValues\obj\Debug\net6.0\02. MinMaxValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\02. MinMaxValues\obj\Debug\net6.0\02. MinMaxValues.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\02. MinMaxValues\obj\Debug\net6.0\02. MinMaxValues.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\02. MinMaxValues\obj\Debug\net6.0\02. MinMaxValues.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\02. MinMaxValues\obj\Debug\net6.0\02. MinMaxValues.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\02. MinMaxValues\obj\Debug\net6.0\refint\02. MinMaxValues.dll
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\02. MinMaxValues\obj\Debug\net6.0\02. MinMaxValues.pdb
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\02. MinMaxValues\obj\Debug\net6.0\02. MinMaxValues.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\Programming Fundamentals and Unit Testing\25. Exam Preparation II\Exam Preparation II\02. MinMaxValues\obj\Debug\net6.0\ref\02. MinMaxValues.dll
