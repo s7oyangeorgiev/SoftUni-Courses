@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgFuAndUnitTestRegExam-2March2024\02. Max\bin\Debug\net6.0\02. Max.exe
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgFuAndUnitTestRegExam-2March2024\02. Max\bin\Debug\net6.0\02. Max.deps.json
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgFuAndUnitTestRegExam-2March2024\02. Max\bin\Debug\net6.0\02. Max.runtimeconfig.json
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgFuAndUnitTestRegExam-2March2024\02. Max\bin\Debug\net6.0\02. Max.dll
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgFuAndUnitTestRegExam-2March2024\02. Max\bin\Debug\net6.0\02. Max.pdb
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgFuAndUnitTestRegExam-2March2024\02. Max\obj\Debug\net6.0\02. Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgFuAndUnitTestRegExam-2March2024\02. Max\obj\Debug\net6.0\02. Max.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgFuAndUnitTestRegExam-2March2024\02. Max\obj\Debug\net6.0\02. Max.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgFuAndUnitTestRegExam-2March2024\02. Max\obj\Debug\net6.0\02. Max.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgFuAndUnitTestRegExam-2March2024\02. Max\obj\Debug\net6.0\02. Max.dll
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgFuAndUnitTestRegExam-2March2024\02. Max\obj\Debug\net6.0\refint\02. Max.dll
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgFuAndUnitTestRegExam-2March2024\02. Max\obj\Debug\net6.0\02. Max.pdb
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgFuAndUnitTestRegExam-2March2024\02. Max\obj\Debug\net6.0\02. Max.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgFuAndUnitTestRegExam-2March2024\02. Max\obj\Debug\net6.0\ref\02. Max.dll

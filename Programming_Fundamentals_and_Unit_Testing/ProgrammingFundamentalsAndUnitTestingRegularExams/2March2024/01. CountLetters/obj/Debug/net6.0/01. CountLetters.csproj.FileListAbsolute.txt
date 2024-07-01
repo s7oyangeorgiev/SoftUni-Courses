@@ -1,0 +1,14 @@
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\01. CountLetters\bin\Debug\net6.0\01. CountLetters.exe
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\01. CountLetters\bin\Debug\net6.0\01. CountLetters.deps.json
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\01. CountLetters\bin\Debug\net6.0\01. CountLetters.runtimeconfig.json
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\01. CountLetters\bin\Debug\net6.0\01. CountLetters.dll
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\01. CountLetters\bin\Debug\net6.0\01. CountLetters.pdb
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\01. CountLetters\obj\Debug\net6.0\01. CountLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\01. CountLetters\obj\Debug\net6.0\01. CountLetters.AssemblyInfoInputs.cache
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\01. CountLetters\obj\Debug\net6.0\01. CountLetters.AssemblyInfo.cs
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\01. CountLetters\obj\Debug\net6.0\01. CountLetters.csproj.CoreCompileInputs.cache
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\01. CountLetters\obj\Debug\net6.0\01. CountLetters.dll
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\01. CountLetters\obj\Debug\net6.0\refint\01. CountLetters.dll
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\01. CountLetters\obj\Debug\net6.0\01. CountLetters.pdb
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\01. CountLetters\obj\Debug\net6.0\01. CountLetters.genruntimeconfig.cache
+C:\Users\stoyan\Desktop\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\ProgrammingFundamentalsAndUnitTestingRegularExam-2March2024\01. CountLetters\obj\Debug\net6.0\ref\01. CountLetters.dll
