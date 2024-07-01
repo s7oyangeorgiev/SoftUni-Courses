@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. CalculateAverageGrade", "01. CalculateAverageGrade\01. CalculateAverageGrade.csproj", "{4A1438C8-7566-4D87-84BC-6BB3C8F54C4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Rotations", "02. Rotations\02. Rotations.csproj", "{5CE5B608-8ADD-44DF-B182-405D84AC0DA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A1438C8-7566-4D87-84BC-6BB3C8F54C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A1438C8-7566-4D87-84BC-6BB3C8F54C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A1438C8-7566-4D87-84BC-6BB3C8F54C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A1438C8-7566-4D87-84BC-6BB3C8F54C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE5B608-8ADD-44DF-B182-405D84AC0DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE5B608-8ADD-44DF-B182-405D84AC0DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE5B608-8ADD-44DF-B182-405D84AC0DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE5B608-8ADD-44DF-B182-405D84AC0DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {027FB65A-CF8F-4D82-A876-9805ED45ED1A}
+	EndGlobalSection
+EndGlobal
